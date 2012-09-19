@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+<Asset Type="System.Collections.Generic.Dictionary[System.String, Microsoft.Xna.Framework.Rectangle]">
+<Item><Key>underground</Key><Value>0 0 896 128</Value></Item>
+<Item><Key>bgstripclose</Key><Value>0 129 800 122</Value></Item>
+<Item><Key>bgstripfar</Key><Value>0 252 800 122</Value></Item>
+<Item><Key>distantbg</Key><Value>0 375 768 128</Value></Item>
+<Item><Key>water</Key><Value>0 504 744 66</Value></Item>
+<Item><Key>eiffel</Key><Value>0 571 190 319</Value></Item>
+<Item><Key>tree</Key><Value>191 571 101 121</Value></Item>
+<Item><Key>rawbg</Key><Value>293 571 100 100</Value></Item>
+<Item><Key>balloon</Key><Value>191 693 66 104</Value></Item>
+<Item><Key>bench</Key><Value>0 891 53 30</Value></Item>
+<Item><Key>lantern</Key><Value>897 0 33 83</Value></Item>
+<Item><Key>trashbin</Key><Value>0 922 16 19</Value></Item>
+<Item><Key>pathtop</Key><Value>801 129 1 3</Value></Item>
+</Asset>
+</XnaContent>

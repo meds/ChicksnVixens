@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+<Asset Type="System.Collections.Generic.Dictionary[System.String, Microsoft.Xna.Framework.Rectangle]">
+<Item><Key>cement</Key><Value>0 0 83 41</Value></Item>
+<Item><Key>cement_broken</Key><Value>0 41 83 41</Value></Item>
+<Item><Key>glass</Key><Value>0 82 83 41</Value></Item>
+<Item><Key>glass_broken</Key><Value>83 0 83 41</Value></Item>
+<Item><Key>wood</Key><Value>83 41 83 41</Value></Item>
+<Item><Key>wood_broken</Key><Value>83 82 83 41</Value></Item>
+</Asset>
+</XnaContent>

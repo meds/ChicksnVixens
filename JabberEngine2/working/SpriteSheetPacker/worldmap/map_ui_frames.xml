@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+<Asset Type="System.Collections.Generic.Dictionary[System.String, Microsoft.Xna.Framework.Rectangle]">
+<Item><Key>map</Key><Value>0 0 1022 799</Value></Item>
+<Item><Key>bavaria</Key><Value>0 799 112 112</Value></Item>
+<Item><Key>paris</Key><Value>112 799 112 112</Value></Item>
+<Item><Key>polar</Key><Value>224 799 112 112</Value></Item>
+<Item><Key>uluru</Key><Value>336 799 112 112</Value></Item>
+<Item><Key>vesuvius</Key><Value>448 799 112 112</Value></Item>
+</Asset>
+</XnaContent>

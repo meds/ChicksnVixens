@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<AnimSheet>
+  <Frames>
+      <Item>
+        <Key>map</Key>
+        <Value>0 0 985 605</Value>
+      </Item>
+    </Frames>
+</AnimSheet>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="3.5" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">iPhoneSimulator</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4750C1D7-5EE0-43AC-A862-45B8D245FC43}</ProjectGuid>
+    <ProjectTypeGuids>{E613F3A2-FE9C-494F-B74E-F63BCB86FEA6};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Jabber</RootNamespace>
+    <AssemblyName>Jabber</AssemblyName>
+    <MtouchSdkVersion>3.2</MtouchSdkVersion>
+    <MtouchMinimumOS>3.0</MtouchMinimumOS>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <SynchReleaseVersion>false</SynchReleaseVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhoneSimulator' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\iPhoneSimulator\Debug</OutputPath>
+    <DefineConstants>MONOTOUCH DEBUG</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <MtouchDebug>True</MtouchDebug>
+    <ConsolePause>false</ConsolePause>
+    <MtouchLink>None</MtouchLink>
+    <MtouchUseLlvm>false</MtouchUseLlvm>
+    <MtouchArch>ARMv6</MtouchArch>
+    <MtouchUseThumb>false</MtouchUseThumb>
+    <MtouchUseSGen>false</MtouchUseSGen>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhoneSimulator' ">
+    <DebugType>none</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\iPhoneSimulator\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <MtouchDebug>False</MtouchDebug>
+    <ConsolePause>false</ConsolePause>
+    <MtouchLink>None</MtouchLink>
+    <DefineConstants>MONOTOUCH</DefineConstants>
+    <MtouchUseLlvm>false</MtouchUseLlvm>
+    <MtouchArch>ARMv6</MtouchArch>
+    <MtouchUseThumb>false</MtouchUseThumb>
+    <MtouchUseSGen>false</MtouchUseSGen>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhone' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\iPhone\Debug</OutputPath>
+    <DefineConstants>MONOTOUCH DEBUG</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <MtouchDebug>True</MtouchDebug>
+    <ConsolePause>false</ConsolePause>
+    <CodesignKey>iPhone Developer</CodesignKey>
+    <MtouchUseLlvm>false</MtouchUseLlvm>
+    <MtouchArch>ARMv6</MtouchArch>
+    <MtouchUseThumb>false</MtouchUseThumb>
+    <MtouchUseSGen>false</MtouchUseSGen>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhone' ">
+    <DebugType>none</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\iPhone\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <MtouchDebug>False</MtouchDebug>
+    <ConsolePause>false</ConsolePause>
+    <CodesignKey>iPhone Developer</CodesignKey>
+    <DefineConstants>MONOTOUCH</DefineConstants>
+    <MtouchUseLlvm>false</MtouchUseLlvm>
+    <MtouchArch>ARMv6</MtouchArch>
+    <MtouchUseThumb>false</MtouchUseThumb>
+    <MtouchUseSGen>false</MtouchUseSGen>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="monotouch" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="OpenTK" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ProjectExtensions>
+    <MonoDevelop>
+      <Properties InternalTargetFrameworkVersion="IPhone">
+        <Deployment.LinuxDeployData scriptName="engine-monotouch" />
+      </Properties>
+    </MonoDevelop>
+  </ProjectExtensions>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Util\JabRectangle.cs" />
+    <Compile Include="Util\JabMath.cs" />
+    <Compile Include="Util\InputManager.cs" />
+    <Compile Include="Util\EventManager.cs" />
+    <Compile Include="Util\Camera.cs" />
+    <Compile Include="Util\UI\MenuObj.cs" />
+    <Compile Include="Scene\GameScene.cs" />
+    <Compile Include="Physics\JabWorld.cs" />
+    <Compile Include="Physics\FarWorld.cs" />
+    <Compile Include="Physics\CharacterController.cs" />
+    <Compile Include="Media\TextDrawer.cs" />
+    <Compile Include="Media\Sprite.cs" />
+    <Compile Include="Media\PhysicSprite.cs" />
+    <Compile Include="Media\BaseSprite.cs" />
+    <Compile Include="Media\AudioManager.cs" />
+    <Compile Include="Media\AnimSprite.cs" />
+    <Compile Include="Media\Animation.cs" />
+    <Compile Include="J3D\Shape.cs" />
+    <Compile Include="J3D\PhysicShape.cs" />
+    <Compile Include="J3D\Mesh.cs" />
+    <Compile Include="GameScreenManager\ScreenManager.cs" />
+    <Compile Include="GameScreenManager\Screen.cs" />
+    <Compile Include="JabJect.cs" />
+    <Compile Include="BaseGame.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Farseer Physics Engine 3.3.1 XNA\FarseerPhysics MonoTouch.csproj">
+      <Project>{F7D42764-6042-4D0D-AAB6-E7938B88B93D}</Project>
+      <Name>FarseerPhysics MonoTouch</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\ExEn\ExEnCore\ExEnCore MonoTouch.csproj">
+      <Project>{4740C1D7-5EE0-43AC-A862-45B8D245FC43}</Project>
+      <Name>ExEnCore MonoTouch</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\ExEn\ExEnEmTouch\ExEnEmTouch.csproj">
+      <Project>{F7E52764-6042-4D0D-AAB6-E7938B88B93D}</Project>
+      <Name>ExEnEmTouch</Name>
+    </ProjectReference>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+<Asset Type="System.Collections.Generic.Dictionary[System.String, Microsoft.Xna.Framework.Rectangle]">
+<Item><Key>bgstripclose</Key><Value>0 0 800 123</Value></Item>
+<Item><Key>bgstripfar</Key><Value>0 124 800 123</Value></Item>
+<Item><Key>distantmountain</Key><Value>0 248 390 102</Value></Item>
+<Item><Key>skycloud</Key><Value>391 248 256 256</Value></Item>
+<Item><Key>underground</Key><Value>648 248 256 256</Value></Item>
+<Item><Key>undergrounddecoration</Key><Value>0 351 256 256</Value></Item>
+<Item><Key>tree</Key><Value>0 608 113 176</Value></Item>
+<Item><Key>browngrass</Key><Value>257 351 40 9</Value></Item>
+<Item><Key>abovegroundtexture</Key><Value>257 361 32 32</Value></Item>
+<Item><Key>flower</Key><Value>298 351 23 30</Value></Item>
+<Item><Key>grass2</Key><Value>257 394 23 25</Value></Item>
+<Item><Key>grass</Key><Value>322 351 22 19</Value></Item>
+<Item><Key>topsky</Key><Value>290 361 1 128</Value></Item>
+</Asset>
+</XnaContent>

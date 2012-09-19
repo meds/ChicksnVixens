@@ -1,0 +1,1274 @@
+<?xml version="1.0"?>
+<Level xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Level_01" Visible="true">
+    <Layers>
+        <Layer Name="Fox" Visible="true">
+            <Items>
+                <Item xsi:type="TextureItem" Name="Texture_0251" Visible="true">
+                    <Position>
+                        <X>975</X>
+                        <Y>-70</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>1</X>
+                        <Y>1</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>Sprites\Gem.png</texture_filename>
+                    <asset_name>Sprites\Gem</asset_name>
+                    <Origin>
+                        <X>16</X>
+                        <Y>16</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0258" Visible="true">
+                    <Position>
+                        <X>1292</X>
+                        <Y>-112</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>1</X>
+                        <Y>1</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>Sprites\Gem.png</texture_filename>
+                    <asset_name>Sprites\Gem</asset_name>
+                    <Origin>
+                        <X>16</X>
+                        <Y>16</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0259" Visible="true">
+                    <Position>
+                        <X>1598</X>
+                        <Y>-111</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>1</X>
+                        <Y>1</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>Sprites\Gem.png</texture_filename>
+                    <asset_name>Sprites\Gem</asset_name>
+                    <Origin>
+                        <X>16</X>
+                        <Y>16</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0260" Visible="true">
+                    <Position>
+                        <X>1862</X>
+                        <Y>-72</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>1</X>
+                        <Y>1</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>Sprites\Gem.png</texture_filename>
+                    <asset_name>Sprites\Gem</asset_name>
+                    <Origin>
+                        <X>16</X>
+                        <Y>16</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0261" Visible="true">
+                    <Position>
+                        <X>905</X>
+                        <Y>-448</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>1</X>
+                        <Y>1</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>Sprites\Gem.png</texture_filename>
+                    <asset_name>Sprites\Gem</asset_name>
+                    <Origin>
+                        <X>16</X>
+                        <Y>16</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0262" Visible="true">
+                    <Position>
+                        <X>1369</X>
+                        <Y>-453</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>1</X>
+                        <Y>1</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>Sprites\Gem.png</texture_filename>
+                    <asset_name>Sprites\Gem</asset_name>
+                    <Origin>
+                        <X>16</X>
+                        <Y>16</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0263" Visible="true">
+                    <Position>
+                        <X>1690</X>
+                        <Y>-455</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>1</X>
+                        <Y>1</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>Sprites\Gem.png</texture_filename>
+                    <asset_name>Sprites\Gem</asset_name>
+                    <Origin>
+                        <X>16</X>
+                        <Y>16</Y>
+                    </Origin>
+                </Item>
+            </Items>
+            <ScrollSpeed>
+                <X>1</X>
+                <Y>1</Y>
+            </ScrollSpeed>
+            <CustomProperties />
+        </Layer>
+        <Layer Name="Terrain" Visible="true">
+            <Items>
+                <Item xsi:type="TextureItem" Name="Copy of Texture_0005" Visible="true">
+                    <Position>
+                        <X>0</X>
+                        <Y>128</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>9920.353</X>
+                        <Y>256</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>whitedot.png</texture_filename>
+                    <asset_name>whitedot</asset_name>
+                    <Origin>
+                        <X>0.5</X>
+                        <Y>0.5</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0208" Visible="true">
+                    <Position>
+                        <X>766</X>
+                        <Y>-30</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>200.429779</X>
+                        <Y>570.251953</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>whitedot.png</texture_filename>
+                    <asset_name>whitedot</asset_name>
+                    <Origin>
+                        <X>0.5</X>
+                        <Y>0.5</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0220" Visible="true">
+                    <Position>
+                        <X>2059</X>
+                        <Y>-27</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>200.429779</X>
+                        <Y>570.251953</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>whitedot.png</texture_filename>
+                    <asset_name>whitedot</asset_name>
+                    <Origin>
+                        <X>0.5</X>
+                        <Y>0.5</Y>
+                    </Origin>
+                </Item>
+            </Items>
+            <ScrollSpeed>
+                <X>1</X>
+                <Y>1</Y>
+            </ScrollSpeed>
+            <CustomProperties>
+                <Property Name="TileSize" Type="string" Description="100">
+                    <string>128</string>
+                </Property>
+                <Property Name="Texture" Type="string" Description="textures/backgrounds/australia/abovegroundtexture">
+                    <string />
+                </Property>
+                <Property Name="LayerDepth" Type="string" Description="1">
+                    <string>2</string>
+                </Property>
+            </CustomProperties>
+        </Layer>
+        <Layer Name="StartPos" Visible="true">
+            <Items>
+                <Item xsi:type="TextureItem" Name="Texture_0068" Visible="true">
+                    <Position>
+                        <X>95</X>
+                        <Y>-102</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>1</X>
+                        <Y>1</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>Physical\crate.jpg</texture_filename>
+                    <asset_name>Physical\crate</asset_name>
+                    <Origin>
+                        <X>150</X>
+                        <Y>150</Y>
+                    </Origin>
+                </Item>
+            </Items>
+            <ScrollSpeed>
+                <X>1</X>
+                <Y>1</Y>
+            </ScrollSpeed>
+            <CustomProperties />
+        </Layer>
+        <Layer Name="RigidBreakableBodies#wood" Visible="true">
+            <Items>
+                <Item xsi:type="TextureItem" Name="Texture_0221" Visible="true">
+                    <Position>
+                        <X>972</X>
+                        <Y>-345</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>4.708903</Rotation>
+                    <Scale>
+                        <X>2.87227774</X>
+                        <Y>2.87227774</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>Physical\wood.png</texture_filename>
+                    <asset_name>Physical\wood</asset_name>
+                    <Origin>
+                        <X>10</X>
+                        <Y>50</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0222" Visible="true">
+                    <Position>
+                        <X>1131</X>
+                        <Y>-26</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>4.714611</Rotation>
+                    <Scale>
+                        <X>2.50693226</X>
+                        <Y>2.50693226</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>Physical\wood.png</texture_filename>
+                    <asset_name>Physical\wood</asset_name>
+                    <Origin>
+                        <X>10</X>
+                        <Y>50</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0224" Visible="true">
+                    <Position>
+                        <X>1276</X>
+                        <Y>-342</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>4.708903</Rotation>
+                    <Scale>
+                        <X>2.87227774</X>
+                        <Y>2.87227774</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>Physical\wood.png</texture_filename>
+                    <asset_name>Physical\wood</asset_name>
+                    <Origin>
+                        <X>10</X>
+                        <Y>50</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0225" Visible="true">
+                    <Position>
+                        <X>1436</X>
+                        <Y>-26</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>4.714611</Rotation>
+                    <Scale>
+                        <X>2.50693226</X>
+                        <Y>2.50693226</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>Physical\wood.png</texture_filename>
+                    <asset_name>Physical\wood</asset_name>
+                    <Origin>
+                        <X>10</X>
+                        <Y>50</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0227" Visible="true">
+                    <Position>
+                        <X>1585</X>
+                        <Y>-342</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>4.708903</Rotation>
+                    <Scale>
+                        <X>2.87227774</X>
+                        <Y>2.87227774</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>Physical\wood.png</texture_filename>
+                    <asset_name>Physical\wood</asset_name>
+                    <Origin>
+                        <X>10</X>
+                        <Y>50</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0228" Visible="true">
+                    <Position>
+                        <X>1690</X>
+                        <Y>-26</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>4.714611</Rotation>
+                    <Scale>
+                        <X>2.50693226</X>
+                        <Y>2.50693226</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>Physical\wood.png</texture_filename>
+                    <asset_name>Physical\wood</asset_name>
+                    <Origin>
+                        <X>10</X>
+                        <Y>50</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0230" Visible="true">
+                    <Position>
+                        <X>1884</X>
+                        <Y>-342</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>4.708903</Rotation>
+                    <Scale>
+                        <X>2.87227774</X>
+                        <Y>2.87227774</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>Physical\wood.png</texture_filename>
+                    <asset_name>Physical\wood</asset_name>
+                    <Origin>
+                        <X>10</X>
+                        <Y>50</Y>
+                    </Origin>
+                </Item>
+            </Items>
+            <ScrollSpeed>
+                <X>1</X>
+                <Y>1</Y>
+            </ScrollSpeed>
+            <CustomProperties>
+                <Property Name="Health" Type="string" Description="2">
+                    <string>2</string>
+                </Property>
+                <Property Name="LayerDepth" Type="string" Description="0.5">
+                    <string>0.5</string>
+                </Property>
+                <Property Name="Mass" Type="string" Description="">
+                    <string>0.25</string>
+                </Property>
+                <Property Name="Friction" Type="string" Description="0.2">
+                    <string>2</string>
+                </Property>
+            </CustomProperties>
+        </Layer>
+        <Layer Name="RigidBodies#1" Visible="true">
+            <Items />
+            <ScrollSpeed>
+                <X>1</X>
+                <Y>1</Y>
+            </ScrollSpeed>
+            <CustomProperties>
+                <Property Name="Mass" Type="string" Description="5">
+                    <string>3</string>
+                </Property>
+                <Property Name="Type" Type="string" Description="Circle">
+                    <string>Circle</string>
+                </Property>
+                <Property Name="LayerDepth" Type="string" Description="0">
+                    <string>0</string>
+                </Property>
+                <Property Name="Friction" Type="string" Description="">
+                    <string>10</string>
+                </Property>
+            </CustomProperties>
+        </Layer>
+        <Layer Name="TNT" Visible="true">
+            <Items />
+            <ScrollSpeed>
+                <X>1</X>
+                <Y>1</Y>
+            </ScrollSpeed>
+            <CustomProperties>
+                <Property Name="ForcePower" Type="string" Description="3">
+                    <string>300000</string>
+                </Property>
+                <Property Name="Health" Type="string" Description="2">
+                    <string>1</string>
+                </Property>
+            </CustomProperties>
+        </Layer>
+        <Layer Name="RigidBreakableBodies#cement" Visible="true">
+            <Items>
+                <Item xsi:type="TextureItem" Name="Texture_0236" Visible="true">
+                    <Position>
+                        <X>1124</X>
+                        <Y>-182</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>4</X>
+                        <Y>2.61137557</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>Physical\cement.png</texture_filename>
+                    <asset_name>Physical\cement</asset_name>
+                    <Origin>
+                        <X>10</X>
+                        <Y>50</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0237" Visible="true">
+                    <Position>
+                        <X>1483</X>
+                        <Y>-401</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>-1.57025468</Rotation>
+                    <Scale>
+                        <X>2.72034121</X>
+                        <Y>3.2</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>Physical\cement.png</texture_filename>
+                    <asset_name>Physical\cement</asset_name>
+                    <Origin>
+                        <X>10</X>
+                        <Y>50</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0244" Visible="true">
+                    <Position>
+                        <X>1153</X>
+                        <Y>-403</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>-1.57025468</Rotation>
+                    <Scale>
+                        <X>2.72034121</X>
+                        <Y>3.2</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>Physical\cement.png</texture_filename>
+                    <asset_name>Physical\cement</asset_name>
+                    <Origin>
+                        <X>10</X>
+                        <Y>50</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0245" Visible="true">
+                    <Position>
+                        <X>1429</X>
+                        <Y>-182</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>4</X>
+                        <Y>2.61137557</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>Physical\cement.png</texture_filename>
+                    <asset_name>Physical\cement</asset_name>
+                    <Origin>
+                        <X>10</X>
+                        <Y>50</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0246" Visible="true">
+                    <Position>
+                        <X>1735</X>
+                        <Y>-182</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>4</X>
+                        <Y>2.61137557</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>Physical\cement.png</texture_filename>
+                    <asset_name>Physical\cement</asset_name>
+                    <Origin>
+                        <X>10</X>
+                        <Y>50</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0247" Visible="true">
+                    <Position>
+                        <X>1812</X>
+                        <Y>-401</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>-1.57025468</Rotation>
+                    <Scale>
+                        <X>2.72034121</X>
+                        <Y>3.2</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>Physical\cement.png</texture_filename>
+                    <asset_name>Physical\cement</asset_name>
+                    <Origin>
+                        <X>10</X>
+                        <Y>50</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0248" Visible="true">
+                    <Position>
+                        <X>904</X>
+                        <Y>-402</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>-1.57025468</Rotation>
+                    <Scale>
+                        <X>2.72034121</X>
+                        <Y>1.5</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>Physical\cement.png</texture_filename>
+                    <asset_name>Physical\cement</asset_name>
+                    <Origin>
+                        <X>10</X>
+                        <Y>50</Y>
+                    </Origin>
+                </Item>
+            </Items>
+            <ScrollSpeed>
+                <X>1</X>
+                <Y>1</Y>
+            </ScrollSpeed>
+            <CustomProperties>
+                <Property Name="Health" Type="string" Description="2">
+                    <string>5</string>
+                </Property>
+                <Property Name="LayerDepth" Type="string" Description="0.5">
+                    <string>0.5</string>
+                </Property>
+                <Property Name="Mass" Type="string" Description="">
+                    <string>0.25</string>
+                </Property>
+                <Property Name="Friction" Type="string" Description="0.2">
+                    <string>2</string>
+                </Property>
+            </CustomProperties>
+        </Layer>
+        <Layer Name="RigidBreakableBodies#glass" Visible="true">
+            <Items>
+                <Item xsi:type="TextureItem" Name="Texture_0240" Visible="true">
+                    <Position>
+                        <X>783</X>
+                        <Y>-488</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>-0.00653874874</Rotation>
+                    <Scale>
+                        <X>3.35043859</X>
+                        <Y>3.35043859</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>Physical\glass.png</texture_filename>
+                    <asset_name>Physical\glass</asset_name>
+                    <Origin>
+                        <X>10</X>
+                        <Y>50</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0243" Visible="true">
+                    <Position>
+                        <X>2073</X>
+                        <Y>-486</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>-0.00653874874</Rotation>
+                    <Scale>
+                        <X>3.35043859</X>
+                        <Y>3.35043859</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>Physical\glass.png</texture_filename>
+                    <asset_name>Physical\glass</asset_name>
+                    <Origin>
+                        <X>10</X>
+                        <Y>50</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0253" Visible="true">
+                    <Position>
+                        <X>1284</X>
+                        <Y>-73</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>4.70998526</Rotation>
+                    <Scale>
+                        <X>1.879298</X>
+                        <Y>1.879298</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>Physical\glass.png</texture_filename>
+                    <asset_name>Physical\glass</asset_name>
+                    <Origin>
+                        <X>10</X>
+                        <Y>50</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0254" Visible="true">
+                    <Position>
+                        <X>1589</X>
+                        <Y>-72</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>4.70998526</Rotation>
+                    <Scale>
+                        <X>1.879298</X>
+                        <Y>1.879298</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>Physical\glass.png</texture_filename>
+                    <asset_name>Physical\glass</asset_name>
+                    <Origin>
+                        <X>10</X>
+                        <Y>50</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0264" Visible="true">
+                    <Position>
+                        <X>937</X>
+                        <Y>-26</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>4.70998526</Rotation>
+                    <Scale>
+                        <X>2.50693226</X>
+                        <Y>1.25</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>Physical\glass.png</texture_filename>
+                    <asset_name>Physical\glass</asset_name>
+                    <Origin>
+                        <X>10</X>
+                        <Y>50</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0265" Visible="true">
+                    <Position>
+                        <X>1891</X>
+                        <Y>-26</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>4.70998526</Rotation>
+                    <Scale>
+                        <X>2.50693226</X>
+                        <Y>1.25</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>Physical\glass.png</texture_filename>
+                    <asset_name>Physical\glass</asset_name>
+                    <Origin>
+                        <X>10</X>
+                        <Y>50</Y>
+                    </Origin>
+                </Item>
+            </Items>
+            <ScrollSpeed>
+                <X>1</X>
+                <Y>1</Y>
+            </ScrollSpeed>
+            <CustomProperties>
+                <Property Name="Health" Type="string" Description="2">
+                    <string>2</string>
+                </Property>
+                <Property Name="LayerDepth" Type="string" Description="0.5">
+                    <string>0</string>
+                </Property>
+                <Property Name="Mass" Type="string" Description="">
+                    <string>0.25</string>
+                </Property>
+                <Property Name="Friction" Type="string" Description="0.2">
+                    <string>2</string>
+                </Property>
+            </CustomProperties>
+        </Layer>
+        <Layer Name="RigidBreakableBodies#metal" Visible="true">
+            <Items />
+            <ScrollSpeed>
+                <X>1</X>
+                <Y>1</Y>
+            </ScrollSpeed>
+            <CustomProperties>
+                <Property Name="Health" Type="string" Description="2">
+                    <string>10</string>
+                </Property>
+                <Property Name="LayerDepth" Type="string" Description="0.5">
+                    <string>0</string>
+                </Property>
+                <Property Name="Mass" Type="string" Description="">
+                    <string>1.0</string>
+                </Property>
+                <Property Name="Friction" Type="string" Description="0.2">
+                    <string>2</string>
+                </Property>
+            </CustomProperties>
+        </Layer>
+        <Layer Name="Sprite" Visible="true">
+            <Items>
+                <Item xsi:type="TextureItem" Name="Texture_0266" Visible="true">
+                    <Position>
+                        <X>1165</X>
+                        <Y>-461</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>1</X>
+                        <Y>1</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>donut.png</texture_filename>
+                    <asset_name>donut</asset_name>
+                    <Origin>
+                        <X>30</X>
+                        <Y>25</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0270" Visible="true">
+                    <Position>
+                        <X>1155</X>
+                        <Y>-518</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>1</X>
+                        <Y>1</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>donutcase.png</texture_filename>
+                    <asset_name>donutcase</asset_name>
+                    <Origin>
+                        <X>66</X>
+                        <Y>81</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0271" Visible="true">
+                    <Position>
+                        <X>1122</X>
+                        <Y>-490</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>1</X>
+                        <Y>1</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>donut.png</texture_filename>
+                    <asset_name>donut</asset_name>
+                    <Origin>
+                        <X>30</X>
+                        <Y>25</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0273" Visible="true">
+                    <Position>
+                        <X>1276</X>
+                        <Y>-278</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>1</X>
+                        <Y>1</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>donut.png</texture_filename>
+                    <asset_name>donut</asset_name>
+                    <Origin>
+                        <X>30</X>
+                        <Y>25</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0276" Visible="true">
+                    <Position>
+                        <X>1207</X>
+                        <Y>-537</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>1</X>
+                        <Y>1</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>donut.png</texture_filename>
+                    <asset_name>donut</asset_name>
+                    <Origin>
+                        <X>30</X>
+                        <Y>25</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0277" Visible="true">
+                    <Position>
+                        <X>1209</X>
+                        <Y>-482</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>1</X>
+                        <Y>1</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>donut.png</texture_filename>
+                    <asset_name>donut</asset_name>
+                    <Origin>
+                        <X>30</X>
+                        <Y>25</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0278" Visible="true">
+                    <Position>
+                        <X>1147</X>
+                        <Y>-562</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>1</X>
+                        <Y>1</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>donut.png</texture_filename>
+                    <asset_name>donut</asset_name>
+                    <Origin>
+                        <X>30</X>
+                        <Y>25</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0279" Visible="true">
+                    <Position>
+                        <X>1154</X>
+                        <Y>-514</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>1</X>
+                        <Y>1</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>donut.png</texture_filename>
+                    <asset_name>donut</asset_name>
+                    <Origin>
+                        <X>30</X>
+                        <Y>25</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0280" Visible="true">
+                    <Position>
+                        <X>1107</X>
+                        <Y>-529</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>1</X>
+                        <Y>1</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>donut.png</texture_filename>
+                    <asset_name>donut</asset_name>
+                    <Origin>
+                        <X>30</X>
+                        <Y>25</Y>
+                    </Origin>
+                </Item>
+            </Items>
+            <ScrollSpeed>
+                <X>1</X>
+                <Y>1</Y>
+            </ScrollSpeed>
+            <CustomProperties />
+        </Layer>
+    </Layers>
+    <CustomProperties>
+        <Property Name="CamStartPos" Type="Vector2" Description="">
+            <Vector2>
+                <X>1576</X>
+                <Y>-355</Y>
+            </Vector2>
+        </Property>
+        <Property Name="Chicks" Type="string" Description="">
+            <string>0+3+3+0+1</string>
+        </Property>
+    </CustomProperties>
+    <EditorRelated>
+        <NextItemNumber>280</NextItemNumber>
+        <ContentRootFolder>C:\mobile\Hen\Hen\HenContent\Textures</ContentRootFolder>
+        <CameraPosition>
+            <X>1276.6676</X>
+            <Y>-506.333649</Y>
+        </CameraPosition>
+        <Version>1.3.0.0</Version>
+    </EditorRelated>
+</Level>

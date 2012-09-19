@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+<Asset Type="System.Collections.Generic.Dictionary[System.String, Microsoft.Xna.Framework.Rectangle]">
+<Item><Key>donutcase</Key><Value>0 0 132 162</Value></Item>
+<Item><Key>tnt</Key><Value>133 0 128 129</Value></Item>
+<Item><Key>fan-mblur-000</Key><Value>262 0 128 128</Value></Item>
+<Item><Key>fan-mblur-001</Key><Value>0 163 128 128</Value></Item>
+<Item><Key>fan-mblur-002</Key><Value>133 130 128 128</Value></Item>
+<Item><Key>fan-mblur-003</Key><Value>0 292 128 128</Value></Item>
+<Item><Key>fan-mblur-004</Key><Value>262 129 128 128</Value></Item>
+<Item><Key>fan-mblur-005</Key><Value>129 259 128 128</Value></Item>
+<Item><Key>fan-mblur-006</Key><Value>258 259 128 128</Value></Item>
+<Item><Key>fan-mblur-007</Key><Value>391 0 128 128</Value></Item>
+<Item><Key>fan-mblur-008</Key><Value>520 0 128 128</Value></Item>
+<Item><Key>fan-mblur-009</Key><Value>391 129 128 128</Value></Item>
+<Item><Key>fan-mblur-010</Key><Value>387 258 128 128</Value></Item>
+<Item><Key>fan-mblur-011</Key><Value>520 129 128 128</Value></Item>
+<Item><Key>fan-mblur-012</Key><Value>649 0 128 128</Value></Item>
+<Item><Key>basketball</Key><Value>0 421 64 64</Value></Item>
+<Item><Key>donut</Key><Value>65 421 60 51</Value></Item>
+</Asset>
+</XnaContent>

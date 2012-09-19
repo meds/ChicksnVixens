@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+<Asset Type="System.Collections.Generic.Dictionary[System.String, Microsoft.Xna.Framework.Rectangle]">
+<Item><Key>france-idle-000</Key><Value>0 0 128 128</Value></Item>
+<Item><Key>france-idle-001</Key><Value>128 0 128 128</Value></Item>
+<Item><Key>france-idle-002</Key><Value>0 128 128 128</Value></Item>
+<Item><Key>france-idle-003</Key><Value>128 128 128 128</Value></Item>
+<Item><Key>france-idle-004</Key><Value>256 0 128 128</Value></Item>
+<Item><Key>france-idle-005</Key><Value>256 128 128 128</Value></Item>
+<Item><Key>france-idle-006</Key><Value>384 0 128 128</Value></Item>
+<Item><Key>france-idle-007</Key><Value>384 128 128 128</Value></Item>
+<Item><Key>france-idle-008</Key><Value>0 256 128 128</Value></Item>
+<Item><Key>france-idle-009</Key><Value>0 384 128 128</Value></Item>
+<Item><Key>france-idle-010</Key><Value>128 256 128 128</Value></Item>
+<Item><Key>france-idle-011</Key><Value>256 256 128 128</Value></Item>
+<Item><Key>france-watch-000</Key><Value>128 384 128 128</Value></Item>
+<Item><Key>france-watch-001</Key><Value>256 384 128 128</Value></Item>
+<Item><Key>france-watch-002</Key><Value>384 256 128 128</Value></Item>
+<Item><Key>france-watch-003</Key><Value>384 384 128 128</Value></Item>
+<Item><Key>france-watch-004</Key><Value>512 0 128 128</Value></Item>
+<Item><Key>france-watch-005</Key><Value>640 0 128 128</Value></Item>
+<Item><Key>france-watch-006</Key><Value>512 128 128 128</Value></Item>
+<Item><Key>france-watch-007</Key><Value>768 0 128 128</Value></Item>
+<Item><Key>france-watch-008</Key><Value>640 128 128 128</Value></Item>
+<Item><Key>france-watch-009</Key><Value>512 256 128 128</Value></Item>
+<Item><Key>france-watch-010</Key><Value>640 256 128 128</Value></Item>
+<Item><Key>france-watch-011</Key><Value>512 384 128 128</Value></Item>
+</Asset>
+</XnaContent>

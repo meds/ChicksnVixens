@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="System.Collections.Generic.Dictionary[System.String, Microsoft.Xna.Framework.Rectangle]">
+    <Item>
+      <Key>mainmenu</Key>
+      <Value>0 0 1000 666</Value>
+    </Item>
+  </Asset>
+</XnaContent>

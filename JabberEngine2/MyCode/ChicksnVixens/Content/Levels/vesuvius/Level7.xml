@@ -1,0 +1,954 @@
+<?xml version="1.0"?>
+<Level xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Level_01" Visible="true">
+    <Layers>
+        <Layer Name="Terrain" Visible="true">
+            <Items>
+                <Item xsi:type="TextureItem" Name="Copy of Texture_0005" Visible="true">
+                    <Position>
+                        <X>0</X>
+                        <Y>128</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>9920.353</X>
+                        <Y>256</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>whitedot.png</texture_filename>
+                    <asset_name>whitedot</asset_name>
+                    <Origin>
+                        <X>0.5</X>
+                        <Y>0.5</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_1652" Visible="true">
+                    <Position>
+                        <X>-341</X>
+                        <Y>158</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>800</X>
+                        <Y>500</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>whitedot.png</texture_filename>
+                    <asset_name>whitedot</asset_name>
+                    <Origin>
+                        <X>0.5</X>
+                        <Y>0.5</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_1734" Visible="true">
+                    <Position>
+                        <X>2157</X>
+                        <Y>-97</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0.699434161</Rotation>
+                    <Scale>
+                        <X>189.153259</X>
+                        <Y>189.153259</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>whitedot.png</texture_filename>
+                    <asset_name>whitedot</asset_name>
+                    <Origin>
+                        <X>0.5</X>
+                        <Y>0.5</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_1735" Visible="true">
+                    <Position>
+                        <X>2239</X>
+                        <Y>-171</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>189.423035</X>
+                        <Y>118.3894</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>whitedot.png</texture_filename>
+                    <asset_name>whitedot</asset_name>
+                    <Origin>
+                        <X>0.5</X>
+                        <Y>0.5</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_1737" Visible="true">
+                    <Position>
+                        <X>1961</X>
+                        <Y>87</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0.7125776</Rotation>
+                    <Scale>
+                        <X>239.032944</X>
+                        <Y>149.395584</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>whitedot.png</texture_filename>
+                    <asset_name>whitedot</asset_name>
+                    <Origin>
+                        <X>0.5</X>
+                        <Y>0.5</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_1742" Visible="true">
+                    <Position>
+                        <X>2769</X>
+                        <Y>68</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>800</X>
+                        <Y>500</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>whitedot.png</texture_filename>
+                    <asset_name>whitedot</asset_name>
+                    <Origin>
+                        <X>0.5</X>
+                        <Y>0.5</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_1743" Visible="true">
+                    <Position>
+                        <X>2380</X>
+                        <Y>-153</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0.458052158</Rotation>
+                    <Scale>
+                        <X>153.8587</X>
+                        <Y>96.16168</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>whitedot.png</texture_filename>
+                    <asset_name>whitedot</asset_name>
+                    <Origin>
+                        <X>0.5</X>
+                        <Y>0.5</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_1747" Visible="true">
+                    <Position>
+                        <X>2042</X>
+                        <Y>6</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>1.1902349</Rotation>
+                    <Scale>
+                        <X>189.153259</X>
+                        <Y>189.153259</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>whitedot.png</texture_filename>
+                    <asset_name>whitedot</asset_name>
+                    <Origin>
+                        <X>0.5</X>
+                        <Y>0.5</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_1748" Visible="true">
+                    <Position>
+                        <X>2301</X>
+                        <Y>-59</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>291.6762</X>
+                        <Y>182.297638</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>whitedot.png</texture_filename>
+                    <asset_name>whitedot</asset_name>
+                    <Origin>
+                        <X>0.5</X>
+                        <Y>0.5</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_1757" Visible="true">
+                    <Position>
+                        <X>2991</X>
+                        <Y>-245</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>800</X>
+                        <Y>500</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>whitedot.png</texture_filename>
+                    <asset_name>whitedot</asset_name>
+                    <Origin>
+                        <X>0.5</X>
+                        <Y>0.5</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_1766" Visible="true">
+                    <Position>
+                        <X>1348</X>
+                        <Y>-66</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>200</X>
+                        <Y>300</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>whitedot.png</texture_filename>
+                    <asset_name>whitedot</asset_name>
+                    <Origin>
+                        <X>0.5</X>
+                        <Y>0.5</Y>
+                    </Origin>
+                </Item>
+            </Items>
+            <ScrollSpeed>
+                <X>1</X>
+                <Y>1</Y>
+            </ScrollSpeed>
+            <CustomProperties>
+                <Property Name="TileSize" Type="string" Description="100">
+                    <string>128</string>
+                </Property>
+                <Property Name="Texture" Type="string" Description="textures/backgrounds/vesuvius/aboveground">
+                    <string />
+                </Property>
+                <Property Name="LayerDepth" Type="string" Description="1">
+                    <string>2</string>
+                </Property>
+            </CustomProperties>
+        </Layer>
+        <Layer Name="Fox" Visible="true">
+            <Items>
+                <Item xsi:type="TextureItem" Name="Texture_1662" Visible="true">
+                    <Position>
+                        <X>2306</X>
+                        <Y>-277</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>3</X>
+                        <Y>3</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>Sprites\Gem.png</texture_filename>
+                    <asset_name>Sprites\Gem</asset_name>
+                    <Origin>
+                        <X>16</X>
+                        <Y>16</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_1745" Visible="true">
+                    <Position>
+                        <X>1682</X>
+                        <Y>-50</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>3</X>
+                        <Y>3</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>Sprites\Gem.png</texture_filename>
+                    <asset_name>Sprites\Gem</asset_name>
+                    <Origin>
+                        <X>16</X>
+                        <Y>16</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_1767" Visible="true">
+                    <Position>
+                        <X>1515</X>
+                        <Y>-126</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>3</X>
+                        <Y>3</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>Sprites\Gem.png</texture_filename>
+                    <asset_name>Sprites\Gem</asset_name>
+                    <Origin>
+                        <X>16</X>
+                        <Y>16</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_1770" Visible="true">
+                    <Position>
+                        <X>1513</X>
+                        <Y>-310</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>3</X>
+                        <Y>3</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>Sprites\Gem.png</texture_filename>
+                    <asset_name>Sprites\Gem</asset_name>
+                    <Origin>
+                        <X>16</X>
+                        <Y>16</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_1771" Visible="true">
+                    <Position>
+                        <X>1704</X>
+                        <Y>-269</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>3</X>
+                        <Y>3</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>Sprites\Gem.png</texture_filename>
+                    <asset_name>Sprites\Gem</asset_name>
+                    <Origin>
+                        <X>16</X>
+                        <Y>16</Y>
+                    </Origin>
+                </Item>
+            </Items>
+            <ScrollSpeed>
+                <X>1</X>
+                <Y>1</Y>
+            </ScrollSpeed>
+            <CustomProperties />
+        </Layer>
+        <Layer Name="StartPos" Visible="true">
+            <Items>
+                <Item xsi:type="TextureItem" Name="Texture_0068" Visible="true">
+                    <Position>
+                        <X>-44</X>
+                        <Y>-187</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>0.6307254</X>
+                        <Y>0.6307254</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>Physical\crate.jpg</texture_filename>
+                    <asset_name>Physical\crate</asset_name>
+                    <Origin>
+                        <X>150</X>
+                        <Y>150</Y>
+                    </Origin>
+                </Item>
+            </Items>
+            <ScrollSpeed>
+                <X>1</X>
+                <Y>1</Y>
+            </ScrollSpeed>
+            <CustomProperties />
+        </Layer>
+        <Layer Name="RigidBreakableBodies" Visible="true">
+            <Items>
+                <Item xsi:type="TextureItem" Name="Texture_1749" Visible="true">
+                    <Position>
+                        <X>1677</X>
+                        <Y>-197</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>-1.57771325</Rotation>
+                    <Scale>
+                        <X>2.13445234</X>
+                        <Y>2.13445234</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>Physical\cement.png</texture_filename>
+                    <asset_name>Physical\cement</asset_name>
+                    <Origin>
+                        <X>10</X>
+                        <Y>50</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_1750" Visible="true">
+                    <Position>
+                        <X>1592</X>
+                        <Y>-88</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>3.14732671</Rotation>
+                    <Scale>
+                        <X>2.13445234</X>
+                        <Y>1.75</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>Physical\cement.png</texture_filename>
+                    <asset_name>Physical\cement</asset_name>
+                    <Origin>
+                        <X>10</X>
+                        <Y>50</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_1752" Visible="true">
+                    <Position>
+                        <X>1774</X>
+                        <Y>-38</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>2.13445234</X>
+                        <Y>0.75</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>Physical\cement.png</texture_filename>
+                    <asset_name>Physical\cement</asset_name>
+                    <Origin>
+                        <X>10</X>
+                        <Y>50</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_1754" Visible="true">
+                    <Position>
+                        <X>1813</X>
+                        <Y>-89</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>2.27369022</Rotation>
+                    <Scale>
+                        <X>2.13445234</X>
+                        <Y>2.13445234</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>Physical\wood.png</texture_filename>
+                    <asset_name>Physical\wood</asset_name>
+                    <Origin>
+                        <X>10</X>
+                        <Y>50</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_1758" Visible="true">
+                    <Position>
+                        <X>2618</X>
+                        <Y>-519</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>-1.575319</Rotation>
+                    <Scale>
+                        <X>2.13445234</X>
+                        <Y>5</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>Physical\wood.png</texture_filename>
+                    <asset_name>Physical\wood</asset_name>
+                    <Origin>
+                        <X>10</X>
+                        <Y>50</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_1763" Visible="true">
+                    <Position>
+                        <X>1514</X>
+                        <Y>-241</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>-1.57771325</Rotation>
+                    <Scale>
+                        <X>2.13445234</X>
+                        <Y>2.13445234</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>Physical\cement.png</texture_filename>
+                    <asset_name>Physical\cement</asset_name>
+                    <Origin>
+                        <X>10</X>
+                        <Y>50</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_1768" Visible="true">
+                    <Position>
+                        <X>1515</X>
+                        <Y>-62</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>-1.57079625</Rotation>
+                    <Scale>
+                        <X>2.13445234</X>
+                        <Y>0.75</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>Physical\cement.png</texture_filename>
+                    <asset_name>Physical\cement</asset_name>
+                    <Origin>
+                        <X>10</X>
+                        <Y>50</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_1769" Visible="true">
+                    <Position>
+                        <X>1514</X>
+                        <Y>-20</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>-1.57079625</Rotation>
+                    <Scale>
+                        <X>1.85393786</X>
+                        <Y>1</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>Physical\cement.png</texture_filename>
+                    <asset_name>Physical\cement</asset_name>
+                    <Origin>
+                        <X>10</X>
+                        <Y>50</Y>
+                    </Origin>
+                </Item>
+            </Items>
+            <ScrollSpeed>
+                <X>1</X>
+                <Y>1</Y>
+            </ScrollSpeed>
+            <CustomProperties>
+                <Property Name="Mass" Type="string" Description="5">
+                    <string>100</string>
+                </Property>
+                <Property Name="Type" Type="string" Description="Circle">
+                    <string>Circle</string>
+                </Property>
+                <Property Name="LayerDepth" Type="string" Description="0">
+                    <string>0</string>
+                </Property>
+                <Property Name="Friction" Type="string" Description="">
+                    <string>10</string>
+                </Property>
+            </CustomProperties>
+        </Layer>
+        <Layer Name="TNT" Visible="true">
+            <Items>
+                <Item xsi:type="TextureItem" Name="Texture_1773" Visible="true">
+                    <Position>
+                        <X>2392</X>
+                        <Y>-609</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>1</X>
+                        <Y>1</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>Physical\crate.png</texture_filename>
+                    <asset_name>Physical\crate</asset_name>
+                    <Origin>
+                        <X>64</X>
+                        <Y>64</Y>
+                    </Origin>
+                </Item>
+            </Items>
+            <ScrollSpeed>
+                <X>1</X>
+                <Y>1</Y>
+            </ScrollSpeed>
+            <CustomProperties />
+        </Layer>
+        <Layer Name="RigidBodies" Visible="true">
+            <Items />
+            <ScrollSpeed>
+                <X>1</X>
+                <Y>1</Y>
+            </ScrollSpeed>
+            <CustomProperties>
+                <Property Name="Mass" Type="string" Description="">
+                    <string>100</string>
+                </Property>
+                <Property Name="Type" Type="string" Description="">
+                    <string>Circle</string>
+                </Property>
+            </CustomProperties>
+        </Layer>
+        <Layer Name="Sprite#2" Visible="true">
+            <Items>
+                <Item xsi:type="TextureItem" Name="Texture_1772" Visible="true">
+                    <Position>
+                        <X>2177</X>
+                        <Y>-318</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>1.74087894</X>
+                        <Y>1.74087894</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>tyre.png</texture_filename>
+                    <asset_name>tyre</asset_name>
+                    <Origin>
+                        <X>50</X>
+                        <Y>50</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_1775" Visible="true">
+                    <Position>
+                        <X>2831</X>
+                        <Y>-622</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>1</X>
+                        <Y>1</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>donutcase.png</texture_filename>
+                    <asset_name>donutcase</asset_name>
+                    <Origin>
+                        <X>66</X>
+                        <Y>81</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_1776" Visible="true">
+                    <Position>
+                        <X>2828</X>
+                        <Y>-789</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>1</X>
+                        <Y>1</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>donutcase.png</texture_filename>
+                    <asset_name>donutcase</asset_name>
+                    <Origin>
+                        <X>66</X>
+                        <Y>81</Y>
+                    </Origin>
+                </Item>
+            </Items>
+            <ScrollSpeed>
+                <X>1</X>
+                <Y>1</Y>
+            </ScrollSpeed>
+            <CustomProperties>
+                <Property Name="LayerDepth" Type="string" Description="">
+                    <string>0</string>
+                </Property>
+            </CustomProperties>
+        </Layer>
+        <Layer Name="BreakableShapeRigidBodies" Visible="true">
+            <Items />
+            <ScrollSpeed>
+                <X>1</X>
+                <Y>1</Y>
+            </ScrollSpeed>
+            <CustomProperties />
+        </Layer>
+    </Layers>
+    <CustomProperties>
+        <Property Name="CamStartPos" Type="Vector2" Description="">
+            <Vector2>
+                <X>49</X>
+                <Y>561</Y>
+            </Vector2>
+        </Property>
+        <Property Name="SpotStartPos" Type="Vector2" Description="">
+            <Vector2>
+                <X>-383</X>
+                <Y>485</Y>
+            </Vector2>
+        </Property>
+        <Property Name="CamStartScale" Type="string" Description="0.1">
+            <string>0.35</string>
+        </Property>
+        <Property Name="MaxGameCamPos" Type="Vector2" Description="">
+            <Vector2>
+                <X>969</X>
+                <Y>460</Y>
+            </Vector2>
+        </Property>
+        <Property Name="ScaleAtMax" Type="string" Description="0.2">
+            <string>0.35</string>
+        </Property>
+        <Property Name="MinCamPos" Type="string" Description="">
+            <string>-1500</string>
+        </Property>
+        <Property Name="MaxCamPos" Type="string" Description="">
+            <string>4000</string>
+        </Property>
+        <Property Name="LeftInvisibleWall" Type="string" Description="">
+            <string>-2500</string>
+        </Property>
+        <Property Name="RightInvisibleWall" Type="string" Description="">
+            <string>3000</string>
+        </Property>
+        <Property Name="MaxCamTarget" Type="string" Description="">
+            <string>400</string>
+        </Property>
+        <Property Name="Chicks" Type="string" Description="">
+            <string>1+1+1</string>
+        </Property>
+        <Property Name="RigidBody" Type="string" Description="">
+            <string />
+        </Property>
+        <Property Name="Sprite#2" Type="string" Description="">
+            <string />
+        </Property>
+        <Property Name="WorldDir" Type="string" Description="">
+            <string>Vesuvius</string>
+        </Property>
+    </CustomProperties>
+    <EditorRelated>
+        <NextItemNumber>1778</NextItemNumber>
+        <ContentRootFolder>C:\mobile\Hen\Hen\HenContent\Textures</ContentRootFolder>
+        <CameraPosition>
+            <X>2657.87671</X>
+            <Y>-683.8286</Y>
+        </CameraPosition>
+        <Version>1.3.0.0</Version>
+    </EditorRelated>
+</Level>

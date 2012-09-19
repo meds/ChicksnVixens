@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="System.Collections.Generic.Dictionary[System.String, Microsoft.Xna.Framework.Rectangle]">
+    <Item>
+      <Key>blend-00</Key>
+      <Value>0 0 128 128</Value>
+    </Item>
+    <Item>
+      <Key>blend-01</Key>
+      <Value>129 0 128 128</Value>
+    </Item>
+    <Item>
+      <Key>blend-02</Key>
+      <Value>258 0 128 128</Value>
+    </Item>
+    <Item>
+      <Key>blend-03</Key>
+      <Value>0 129 128 128</Value>
+    </Item>
+    <Item>
+      <Key>blend-04</Key>
+      <Value>129 129 128 128</Value>
+    </Item>
+    <Item>
+      <Key>blend-05</Key>
+      <Value>0 258 128 128</Value>
+    </Item>
+    <Item>
+      <Key>blend-06</Key>
+      <Value>129 258 128 128</Value>
+    </Item>
+    <Item>
+      <Key>blend-07</Key>
+      <Value>258 129 128 128</Value>
+    </Item>
+    <Item>
+      <Key>blend-08</Key>
+      <Value>258 258 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-death-00000</Key>
+      <Value>387 0 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-death-00001</Key>
+      <Value>387 129 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-death-00002</Key>
+      <Value>516 0 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-death-00003</Key>
+      <Value>387 258 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-death-00004</Key>
+      <Value>516 129 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-death-00005</Key>
+      <Value>645 0 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-death-00006</Key>
+      <Value>774 0 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-death-00007</Key>
+      <Value>645 129 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-death-00008</Key>
+      <Value>516 258 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-death-00009</Key>
+      <Value>645 258 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-death-00010</Key>
+      <Value>774 129 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-death-00011</Key>
+      <Value>774 258 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-hands-1</Key>
+      <Value>0 387 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-hands-2</Key>
+      <Value>0 516 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-idle-00000</Key>
+      <Value>129 387 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-idle-00001</Key>
+      <Value>129 516 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-idle-00002</Key>
+      <Value>0 645 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-idle-00003</Key>
+      <Value>258 387 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-idle-00004</Key>
+      <Value>129 645 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-idle-00005</Key>
+      <Value>0 774 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-idle-00006</Key>
+      <Value>387 387 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-idle-00007</Key>
+      <Value>258 516 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-idle-00008</Key>
+      <Value>258 645 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-idle-00009</Key>
+      <Value>516 387 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-idle-00010</Key>
+      <Value>129 774 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-idle-00011</Key>
+      <Value>387 516 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-roll-still</Key>
+      <Value>258 774 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-watch-00000</Key>
+      <Value>516 516 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-watch-00001</Key>
+      <Value>387 645 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-watch-00002</Key>
+      <Value>645 387 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-watch-00003</Key>
+      <Value>516 645 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-watch-00004</Key>
+      <Value>387 774 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-watch-00005</Key>
+      <Value>774 387 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-watch-00006</Key>
+      <Value>645 516 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-watch-00007</Key>
+      <Value>774 516 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-watch-00008</Key>
+      <Value>645 645 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-watch-00009</Key>
+      <Value>516 774 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-watch-00010</Key>
+      <Value>645 774 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-watch-00011</Key>
+      <Value>774 645 128 128</Value>
+    </Item>
+  </Asset>
+
+
+
+  <Animations>
+    <AnimSet>
+      <Name>Watch</Name>
+      <Speed>20</Speed>
+
+      <AnimFrames>
+        <Frame>
+          <Key>fox-watch-00001</Key>
+        </Frame>
+        <Frame>
+          <Key>fox-watch-00002</Key>
+        </Frame>
+        <Frame>
+          <Key>fox-watch-00003</Key>
+        </Frame>
+        <Frame>
+          <Key>fox-watch-00004</Key>
+        </Frame>
+        <Frame>
+          <Key>fox-watch-00005</Key>
+        </Frame>
+        <Frame>
+          <Key>fox-watch-00006</Key>
+        </Frame>
+      </AnimFrames>
+    </AnimSet>
+
+
+    <AnimSet>
+      <Name>Roll</Name>
+      <Speed>20</Speed>
+
+      <AnimFrames>
+        <Frame>
+          <Key>fox-roll-still</Key>
+        </Frame>
+      </AnimFrames>
+    </AnimSet>
+
+    <AnimSet>
+      <Name>Celebrate</Name>
+      <Speed>20</Speed>
+
+      <AnimFrames>
+        <Loop/>
+        <FrameStart>blend-00</FrameStart>
+        <FrameEnd>blend-08</FrameEnd>
+      </AnimFrames>
+    </AnimSet>
+
+    <AnimSet>
+      <Name>Idle</Name>
+      <Speed>20</Speed>
+
+      <AnimFrames>
+        <Loop/>
+        <FrameStart>fox-idle-00000</FrameStart>
+        <FrameEnd>fox-idle-00011</FrameEnd>
+      </AnimFrames>
+    </AnimSet>
+
+    <AnimSet>
+      <Name>Die</Name>
+      <Speed>20</Speed>
+      <AnimFrames>
+
+        <FrameStart>fox-death-00000</FrameStart>
+        <FrameEnd>fox-death-00011</FrameEnd>
+      </AnimFrames>
+    </AnimSet>
+
+    <AnimSet>
+      <Name>Corpse</Name>
+      <Speed>0</Speed>
+      <AnimFrames>
+        <Frame>
+          <Key>fox-death-00011</Key>
+        </Frame>
+      </AnimFrames>
+    </AnimSet>
+
+
+    <AnimSet>
+      <Name>Carrying</Name>
+      <Speed>3</Speed>
+      <AnimFrames>
+        <FrameStart>fox-hands-1</FrameStart>
+        <FrameEnd>fox-hands-2</FrameEnd>
+      </AnimFrames>
+    </AnimSet>
+
+  </Animations>
+
+
+</XnaContent>

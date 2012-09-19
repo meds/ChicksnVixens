@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+<Asset Type="System.Collections.Generic.Dictionary[System.String, Microsoft.Xna.Framework.Rectangle]">
+<Item><Key>hill</Key><Value>0 0 971 33</Value></Item>
+<Item><Key>underground</Key><Value>0 34 896 128</Value></Item>
+<Item><Key>midmountain</Key><Value>0 163 896 51</Value></Item>
+<Item><Key>closehill</Key><Value>0 215 896 13</Value></Item>
+<Item><Key>bgstripclose</Key><Value>0 229 800 46</Value></Item>
+<Item><Key>bgstripfar</Key><Value>0 276 800 39</Value></Item>
+<Item><Key>cloud</Key><Value>0 316 313 93</Value></Item>
+<Item><Key>hill2</Key><Value>0 410 196 68</Value></Item>
+<Item><Key>vesuvius</Key><Value>197 410 181 97</Value></Item>
+<Item><Key>sky</Key><Value>801 229 128 128</Value></Item>
+<Item><Key>tree1</Key><Value>314 316 74 63</Value></Item>
+<Item><Key>tree2</Key><Value>389 316 74 63</Value></Item>
+<Item><Key>wildflower</Key><Value>379 380 42 37</Value></Item>
+<Item><Key>grass</Key><Value>0 479 34 10</Value></Item>
+<Item><Key>smoke_puff</Key><Value>35 479 27 22</Value></Item>
+<Item><Key>lava_rock</Key><Value>0 490 18 21</Value></Item>
+<Item><Key>sheepleft</Key><Value>63 479 17 13</Value></Item>
+<Item><Key>sheepright</Key><Value>63 493 17 13</Value></Item>
+</Asset>
+</XnaContent>

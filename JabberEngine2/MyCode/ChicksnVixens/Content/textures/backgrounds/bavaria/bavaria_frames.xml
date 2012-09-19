@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+<Asset Type="System.Collections.Generic.Dictionary[System.String, Microsoft.Xna.Framework.Rectangle]">
+<Item><Key>mountain</Key><Value>0 0 896 156</Value></Item>
+<Item><Key>underground</Key><Value>0 157 896 116</Value></Item>
+<Item><Key>bgstripclose</Key><Value>0 274 800 42</Value></Item>
+<Item><Key>hill</Key><Value>0 317 768 25</Value></Item>
+<Item><Key>bgstripfar</Key><Value>0 343 760 41</Value></Item>
+<Item><Key>largehouse</Key><Value>0 385 108 73</Value></Item>
+<Item><Key>tree</Key><Value>109 385 101 91</Value></Item>
+<Item><Key>rawbg</Key><Value>211 385 100 100</Value></Item>
+<Item><Key>bush</Key><Value>0 459 71 48</Value></Item>
+<Item><Key>house</Key><Value>312 385 67 74</Value></Item>
+<Item><Key>cowleft</Key><Value>380 385 55 40</Value></Item>
+<Item><Key>cowright</Key><Value>312 460 55 40</Value></Item>
+</Asset>
+</XnaContent>

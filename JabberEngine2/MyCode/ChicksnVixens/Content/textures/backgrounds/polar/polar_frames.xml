@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+<Asset Type="System.Collections.Generic.Dictionary[System.String, Microsoft.Xna.Framework.Rectangle]">
+<Item><Key>mountainfar</Key><Value>0 0 448 67</Value></Item>
+<Item><Key>bgstripclose</Key><Value>0 68 400 64</Value></Item>
+<Item><Key>bgstripfar</Key><Value>0 133 400 64</Value></Item>
+<Item><Key>underground</Key><Value>0 198 384 128</Value></Item>
+<Item><Key>polar_mountain1</Key><Value>0 327 384 55</Value></Item>
+<Item><Key>mountainsnear</Key><Value>0 383 384 47</Value></Item>
+<Item><Key>rawbg</Key><Value>401 68 100 100</Value></Item>
+</Asset>
+</XnaContent>

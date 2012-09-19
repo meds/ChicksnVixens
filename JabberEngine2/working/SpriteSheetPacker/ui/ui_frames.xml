@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+<Asset Type="System.Collections.Generic.Dictionary[System.String, Microsoft.Xna.Framework.Rectangle]">
+<Item><Key>cannonfire</Key><Value>0 0 360 227</Value></Item>
+<Item><Key>arrow_dir</Key><Value>0 228 289 93</Value></Item>
+<Item><Key>chickenincannon</Key><Value>290 228 206 207</Value></Item>
+<Item><Key>doublearrow</Key><Value>0 322 148 100</Value></Item>
+<Item><Key>movie</Key><Value>361 0 133 141</Value></Item>
+<Item><Key>feather</Key><Value>149 322 128 128</Value></Item>
+<Item><Key>settings</Key><Value>495 0 124 99</Value></Item>
+<Item><Key>levelbutton</Key><Value>0 423 124 81</Value></Item>
+<Item><Key>highscore</Key><Value>361 142 120 33</Value></Item>
+<Item><Key>quit</Key><Value>495 100 100 100</Value></Item>
+<Item><Key>star</Key><Value>620 0 100 100</Value></Item>
+<Item><Key>restart</Key><Value>596 101 99 94</Value></Item>
+<Item><Key>arrow</Key><Value>721 0 88 100</Value></Item>
+<Item><Key>score</Key><Value>361 176 71 25</Value></Item>
+<Item><Key>speaker_icon</Key><Value>497 201 55 76</Value></Item>
+<Item><Key>lock</Key><Value>125 451 46 57</Value></Item>
+<Item><Key>4</Key><Value>278 436 45 73</Value></Item>
+<Item><Key>2</Key><Value>553 201 41 73</Value></Item>
+<Item><Key>3</Key><Value>324 436 41 73</Value></Item>
+<Item><Key>volume_handle</Key><Value>497 278 38 76</Value></Item>
+<Item><Key>8</Key><Value>596 196 38 73</Value></Item>
+<Item><Key>pause</Key><Value>433 176 38 41</Value></Item>
+<Item><Key>5</Key><Value>696 101 37 73</Value></Item>
+<Item><Key>6</Key><Value>366 436 37 73</Value></Item>
+<Item><Key>7</Key><Value>810 0 37 73</Value></Item>
+<Item><Key>9</Key><Value>536 278 36 73</Value></Item>
+<Item><Key>0</Key><Value>635 196 34 73</Value></Item>
+<Item><Key>1</Key><Value>734 101 33 73</Value></Item>
+<Item><Key>volume_bar</Key><Value>125 423 20 8</Value></Item>
+<Item><Key>circle</Key><Value>125 432 10 10</Value></Item>
+<Item><Key>whitecore</Key><Value>361 202 10 10</Value></Item>
+<Item><Key>white</Key><Value>0 505 1 1</Value></Item>
+</Asset>
+</XnaContent>

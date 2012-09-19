@@ -1,0 +1,81 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Engine MonoTouch", "..\Engine\Engine MonoTouch.csproj", "{F981A69B-7423-4C62-8000-A948A927FE59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FarseerPhysics MonoTouch", "..\Farseer Physics Engine 3.3.1 XNA\FarseerPhysics MonoTouch.csproj", "{F7D42765-6042-4D0D-AAB6-E7938B88B93D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExEnCore MonoTouch", "..\..\ExEn\ExEnCore\ExEnCore MonoTouch.csproj", "{4740C1D7-5EE0-43AC-A862-45B8D245FC43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExEnEmTouch", "..\..\ExEn\ExEnEmTouch\ExEnEmTouch.csproj", "{F7E52764-6042-4D0D-AAB6-E7938B88B93D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChicksnVixens-MonoTouch", "..\ChicksnVixens\ChicksnVixens-MonoTouch.csproj", "{C97ACCC8-1172-4146-BC53-A67E9804F095}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		DistIphone|iPhone = DistIphone|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4740C1D7-5EE0-43AC-A862-45B8D245FC43}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{4740C1D7-5EE0-43AC-A862-45B8D245FC43}.Debug|iPhone.Build.0 = Debug|iPhone
+		{4740C1D7-5EE0-43AC-A862-45B8D245FC43}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{4740C1D7-5EE0-43AC-A862-45B8D245FC43}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{4740C1D7-5EE0-43AC-A862-45B8D245FC43}.DistIphone|iPhone.ActiveCfg = DistIphone|iPhone
+		{4740C1D7-5EE0-43AC-A862-45B8D245FC43}.DistIphone|iPhone.Build.0 = DistIphone|iPhone
+		{4740C1D7-5EE0-43AC-A862-45B8D245FC43}.Release|iPhone.ActiveCfg = Release|iPhone
+		{4740C1D7-5EE0-43AC-A862-45B8D245FC43}.Release|iPhone.Build.0 = Release|iPhone
+		{4740C1D7-5EE0-43AC-A862-45B8D245FC43}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{4740C1D7-5EE0-43AC-A862-45B8D245FC43}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{C97ACCC8-1172-4146-BC53-A67E9804F095}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{C97ACCC8-1172-4146-BC53-A67E9804F095}.Debug|iPhone.Build.0 = Debug|iPhone
+		{C97ACCC8-1172-4146-BC53-A67E9804F095}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{C97ACCC8-1172-4146-BC53-A67E9804F095}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{C97ACCC8-1172-4146-BC53-A67E9804F095}.DistIphone|iPhone.ActiveCfg = Debug|iPhone
+		{C97ACCC8-1172-4146-BC53-A67E9804F095}.DistIphone|iPhone.Build.0 = Debug|iPhone
+		{C97ACCC8-1172-4146-BC53-A67E9804F095}.Release|iPhone.ActiveCfg = Release|iPhone
+		{C97ACCC8-1172-4146-BC53-A67E9804F095}.Release|iPhone.Build.0 = Release|iPhone
+		{C97ACCC8-1172-4146-BC53-A67E9804F095}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{C97ACCC8-1172-4146-BC53-A67E9804F095}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{F7D42765-6042-4D0D-AAB6-E7938B88B93D}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{F7D42765-6042-4D0D-AAB6-E7938B88B93D}.Debug|iPhone.Build.0 = Debug|iPhone
+		{F7D42765-6042-4D0D-AAB6-E7938B88B93D}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{F7D42765-6042-4D0D-AAB6-E7938B88B93D}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{F7D42765-6042-4D0D-AAB6-E7938B88B93D}.DistIphone|iPhone.ActiveCfg = DistIphone|iPhone
+		{F7D42765-6042-4D0D-AAB6-E7938B88B93D}.DistIphone|iPhone.Build.0 = DistIphone|iPhone
+		{F7D42765-6042-4D0D-AAB6-E7938B88B93D}.Release|iPhone.ActiveCfg = Release|iPhone
+		{F7D42765-6042-4D0D-AAB6-E7938B88B93D}.Release|iPhone.Build.0 = Release|iPhone
+		{F7D42765-6042-4D0D-AAB6-E7938B88B93D}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{F7D42765-6042-4D0D-AAB6-E7938B88B93D}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{F7E52764-6042-4D0D-AAB6-E7938B88B93D}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{F7E52764-6042-4D0D-AAB6-E7938B88B93D}.Debug|iPhone.Build.0 = Debug|iPhone
+		{F7E52764-6042-4D0D-AAB6-E7938B88B93D}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{F7E52764-6042-4D0D-AAB6-E7938B88B93D}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{F7E52764-6042-4D0D-AAB6-E7938B88B93D}.DistIphone|iPhone.ActiveCfg = DistIphone|iPhone
+		{F7E52764-6042-4D0D-AAB6-E7938B88B93D}.DistIphone|iPhone.Build.0 = DistIphone|iPhone
+		{F7E52764-6042-4D0D-AAB6-E7938B88B93D}.Release|iPhone.ActiveCfg = Release|iPhone
+		{F7E52764-6042-4D0D-AAB6-E7938B88B93D}.Release|iPhone.Build.0 = Release|iPhone
+		{F7E52764-6042-4D0D-AAB6-E7938B88B93D}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{F7E52764-6042-4D0D-AAB6-E7938B88B93D}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{F981A69B-7423-4C62-8000-A948A927FE59}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{F981A69B-7423-4C62-8000-A948A927FE59}.Debug|iPhone.Build.0 = Debug|iPhone
+		{F981A69B-7423-4C62-8000-A948A927FE59}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{F981A69B-7423-4C62-8000-A948A927FE59}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{F981A69B-7423-4C62-8000-A948A927FE59}.DistIphone|iPhone.ActiveCfg = DistIphone|iPhone
+		{F981A69B-7423-4C62-8000-A948A927FE59}.DistIphone|iPhone.Build.0 = DistIphone|iPhone
+		{F981A69B-7423-4C62-8000-A948A927FE59}.Release|iPhone.ActiveCfg = Release|iPhone
+		{F981A69B-7423-4C62-8000-A948A927FE59}.Release|iPhone.Build.0 = Release|iPhone
+		{F981A69B-7423-4C62-8000-A948A927FE59}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{F981A69B-7423-4C62-8000-A948A927FE59}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = ..\ChicksnVixens\ChicksnVixens-MonoTouch.csproj
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = None
+		$1.ResourceNamePolicy = FileFormatDefault
+	EndGlobalSection
+EndGlobal

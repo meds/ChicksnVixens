@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DE16E975-AA55-49F9-9E00-CBF60B92A0CD}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>EngineMonoTouch</RootNamespace>
+    <AssemblyName>EngineMonoTouch</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>none</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <ProjectReference Include="..\..\ExEn\ExEnCore\ExEnCore MonoTouch.csproj">
+      <Project>{4740C1D7-5EE0-43AC-A862-45B8D245FC43}</Project>
+      <Name>ExEnCore MonoTouch</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\ExEn\ExEnEmTouch\ExEnEmTouch.csproj">
+      <Project>{F7E52764-6042-4D0D-AAB6-E7938B88B93D}</Project>
+      <Name>ExEnEmTouch</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Farseer Physics Engine 3.3.1 XNA\FarseerPhysics MonoTouch.csproj">
+      <Project>{F7D42764-6042-4D0D-AAB6-E7938B88B93D}</Project>
+      <Name>FarseerPhysics MonoTouch</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="GameScreenManager\ScreenManager.cs" />
+    <Compile Include="GameScreenManager\Screen.cs" />
+    <Compile Include="Util\Camera.cs" />
+    <Compile Include="Util\EventManager.cs" />
+    <Compile Include="Util\InputManager.cs" />
+    <Compile Include="Util\JabMath.cs" />
+    <Compile Include="Util\JabRectangle.cs" />
+    <Compile Include="Util\UI\MenuObj.cs" />
+    <Compile Include="J3D\Mesh.cs" />
+    <Compile Include="J3D\PhysicShape.cs" />
+    <Compile Include="J3D\Shape.cs" />
+    <Compile Include="Physics\CharacterController.cs" />
+    <Compile Include="Physics\FarWorld.cs" />
+    <Compile Include="Physics\JabWorld.cs" />
+    <Compile Include="Scene\GameScene.cs" />
+    <Compile Include="Media\Animation.cs" />
+    <Compile Include="Media\AnimSprite.cs" />
+    <Compile Include="Media\AudioManager.cs" />
+    <Compile Include="Media\BaseSprite.cs" />
+    <Compile Include="Media\PhysicSprite.cs" />
+    <Compile Include="Media\Sprite.cs" />
+    <Compile Include="Media\TextDrawer.cs" />
+    <Compile Include="BaseGame.cs" />
+    <Compile Include="JabJect.cs" />
+  </ItemGroup>
+</Project>

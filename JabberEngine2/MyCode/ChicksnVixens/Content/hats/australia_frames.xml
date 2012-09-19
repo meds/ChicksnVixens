@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="System.Collections.Generic.Dictionary[System.String, Microsoft.Xna.Framework.Rectangle]">
+    <Item>
+      <Key>australia-idle-000</Key>
+      <Value>0 0 128 128</Value>
+    </Item>
+    <Item>
+      <Key>australia-idle-001</Key>
+      <Value>129 0 128 128</Value>
+    </Item>
+    <Item>
+      <Key>australia-idle-002</Key>
+      <Value>258 0 128 128</Value>
+    </Item>
+    <Item>
+      <Key>australia-idle-003</Key>
+      <Value>0 129 128 128</Value>
+    </Item>
+    <Item>
+      <Key>australia-idle-004</Key>
+      <Value>129 129 128 128</Value>
+    </Item>
+    <Item>
+      <Key>australia-idle-005</Key>
+      <Value>0 258 128 128</Value>
+    </Item>
+    <Item>
+      <Key>australia-idle-006</Key>
+      <Value>129 258 128 128</Value>
+    </Item>
+    <Item>
+      <Key>australia-idle-007</Key>
+      <Value>258 129 128 128</Value>
+    </Item>
+    <Item>
+      <Key>australia-idle-008</Key>
+      <Value>258 258 128 128</Value>
+    </Item>
+    <Item>
+      <Key>australia-idle-009</Key>
+      <Value>387 0 128 128</Value>
+    </Item>
+    <Item>
+      <Key>australia-idle-010</Key>
+      <Value>387 129 128 128</Value>
+    </Item>
+    <Item>
+      <Key>australia-idle-011</Key>
+      <Value>516 0 128 128</Value>
+    </Item>
+    <Item>
+      <Key>australia-watch-000</Key>
+      <Value>387 258 128 128</Value>
+    </Item>
+    <Item>
+      <Key>australia-watch-001</Key>
+      <Value>516 129 128 128</Value>
+    </Item>
+    <Item>
+      <Key>australia-watch-002</Key>
+      <Value>645 0 128 128</Value>
+    </Item>
+    <Item>
+      <Key>australia-watch-003</Key>
+      <Value>774 0 128 128</Value>
+    </Item>
+    <Item>
+      <Key>australia-watch-004</Key>
+      <Value>645 129 128 128</Value>
+    </Item>
+    <Item>
+      <Key>australia-watch-005</Key>
+      <Value>516 258 128 128</Value>
+    </Item>
+    <Item>
+      <Key>australia-watch-006</Key>
+      <Value>645 258 128 128</Value>
+    </Item>
+    <Item>
+      <Key>australia-watch-007</Key>
+      <Value>774 129 128 128</Value>
+    </Item>
+    <Item>
+      <Key>australia-watch-008</Key>
+      <Value>774 258 128 128</Value>
+    </Item>
+    <Item>
+      <Key>australia-watch-009</Key>
+      <Value>0 387 128 128</Value>
+    </Item>
+    <Item>
+      <Key>australia-watch-010</Key>
+      <Value>0 516 128 128</Value>
+    </Item>
+    <Item>
+      <Key>australia-watch-011</Key>
+      <Value>129 387 128 128</Value>
+    </Item>
+  </Asset>
+</XnaContent>

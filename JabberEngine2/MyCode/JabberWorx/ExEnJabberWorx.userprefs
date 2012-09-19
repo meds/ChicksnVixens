@@ -1,0 +1,30 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../ChicksnVixens/Screens/LevelSelectScreen.cs">
+    <Files>
+      <File FileName="../../ExEn/ExEnCore/Graphics/PresentationParameters.cs" Line="9" Column="52" />
+      <File FileName="../Engine/BaseGame.cs" Line="58" Column="7" />
+      <File FileName="../ChicksnVixens/Screens/LevelSelectScreen.cs" Line="107" Column="40" />
+      <File FileName="../ChicksnVixens/Screens/GameplayScreen.cs" Line="178" Column="32" />
+      <File FileName="../ChicksnVixens/Screens/LevelEndScreen.cs" Line="139" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="ChicksnVixens-MonoTouch" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ahmedhakeem/Documents/Projects/JabberEngine2/MyCode/ChicksnVixens/Screens/GameplayScreen.cs" line="178" />
+      <Breakpoint file="/Users/ahmedhakeem/Documents/Projects/JabberEngine2/MyCode/ChicksnVixens/Screens/LevelEndScreen.cs" line="139" />
+      <Breakpoint file="/Users/ahmedhakeem/Documents/Projects/JabberEngine2/MyCode/ChicksnVixens/Screens/LevelSelectScreen.cs" line="107" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Engine_220MonoTouch>
+    <IPhoneSimulatorTarget-Debug_27CiPhoneSimulator Device="IPad" SdkVersion="4.3" />
+  </MonoDevelop.Ide.ItemProperties.Engine_220MonoTouch>
+</Properties>
