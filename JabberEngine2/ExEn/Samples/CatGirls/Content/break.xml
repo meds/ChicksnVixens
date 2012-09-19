@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<AnimSheet>
+  <Frames>
+    <Item>
+      <Key>cement</Key>
+      <Value>0 0 83 41</Value>
+    </Item>
+    <Item>
+      <Key>cement_broken</Key>
+      <Value>0 42 83 41</Value>
+    </Item>
+    <Item>
+      <Key>glass</Key>
+      <Value>0 84 83 41</Value>
+    </Item>
+    <Item>
+      <Key>glass_broken</Key>
+      <Value>84 0 83 41</Value>
+    </Item>
+    <Item>
+      <Key>wood</Key>
+      <Value>84 42 83 41</Value>
+    </Item>
+    <Item>
+      <Key>wood_broken</Key>
+      <Value>84 84 83 41</Value>
+    </Item>
+  </Frames>
+</AnimSheet>

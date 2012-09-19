@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<AnimSheet>
+  <Frames>
+    <Item>
+      <Key>bird-bomb-00000</Key>
+      <Value>0 0 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-bomb-00001</Key>
+      <Value>129 0 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-bomb-00002</Key>
+      <Value>258 0 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-bomb-00003</Key>
+      <Value>0 129 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-bomb-00004</Key>
+      <Value>129 129 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-bomb-00005</Key>
+      <Value>0 258 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-boom-00000</Key>
+      <Value>129 258 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-boom-00001</Key>
+      <Value>258 129 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-boom-00002</Key>
+      <Value>258 258 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-boom-00003</Key>
+      <Value>387 0 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-boom-00004</Key>
+      <Value>387 129 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-boom-00005</Key>
+      <Value>516 0 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-chicken-00000</Key>
+      <Value>387 258 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-chicken-00001</Key>
+      <Value>516 129 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-chicken-00002</Key>
+      <Value>645 0 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-chicken-00003</Key>
+      <Value>774 0 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-chicken-00004</Key>
+      <Value>645 129 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-chicken-00005</Key>
+      <Value>516 258 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-egg-00000</Key>
+      <Value>645 258 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-egg-00001</Key>
+      <Value>774 129 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-egg-00002</Key>
+      <Value>774 258 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-egg-00003</Key>
+      <Value>0 387 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-egg-00004</Key>
+      <Value>0 516 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-egg-00005</Key>
+      <Value>129 387 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-raptor-attack-00000</Key>
+      <Value>129 516 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-raptor-attack-00001</Key>
+      <Value>0 645 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-raptor-attack-00002</Key>
+      <Value>258 387 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-raptor-attack-00003</Key>
+      <Value>129 645 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-raptor-attack-00004</Key>
+      <Value>0 774 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-raptor-attack-00005</Key>
+      <Value>387 387 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-raptor-attack-00006</Key>
+      <Value>258 516 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-raptor-attack-00007</Key>
+      <Value>258 645 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-raptor-base-00000</Key>
+      <Value>516 387 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-raptor-base-00001</Key>
+      <Value>129 774 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-raptor-base-00002</Key>
+      <Value>387 516 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-raptor-base-00003</Key>
+      <Value>258 774 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-raptor-base-00004</Key>
+      <Value>516 516 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-raptor-base-00005</Key>
+      <Value>387 645 128 128</Value>
+    </Item>
+    <Item>
+      <Key>basketball</Key>
+      <Value>903 0 64 64</Value>
+    </Item>
+    <Item>
+      <Key>cement</Key>
+      <Value>903 65 20 100</Value>
+    </Item>
+    <Item>
+      <Key>cementdamaged</Key>
+      <Value>968 0 20 100</Value>
+    </Item>
+    <Item>
+      <Key>glass</Key>
+      <Value>989 0 20 100</Value>
+    </Item>
+    <Item>
+      <Key>glassdamaged</Key>
+      <Value>924 65 20 100</Value>
+    </Item>
+    <Item>
+      <Key>metal</Key>
+      <Value>945 65 20 100</Value>
+    </Item>
+    <Item>
+      <Key>wood</Key>
+      <Value>645 387 20 100</Value>
+    </Item>
+    <Item>
+      <Key>wooddamaged</Key>
+      <Value>666 387 20 100</Value>
+    </Item>
+  </Frames>
+
+  <Animations>
+
+    <AnimSet>
+      <Name>raptor</Name>
+      <Speed>20</Speed>
+
+      <AnimFrames>
+        <Frame>
+          <Key>bird-raptor-attack-00001</Key>
+        </Frame>
+      </AnimFrames>
+    </AnimSet>
+  </Animations>
+
+</AnimSheet>

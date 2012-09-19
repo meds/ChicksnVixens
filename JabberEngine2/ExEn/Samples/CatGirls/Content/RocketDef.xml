@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Animations>
+  <Definition FrameWidth="64" FrameHeight="64"
+            SheetRows="5" SheetColumns="5"
+            Speed="30" 
+              OffsetX="0" OffsetY="388"
+            SheetName="masstexture"
+            Alias="Explosion" IsAI="false"/>
+
+  <Definition FrameWidth="25" FrameHeight="70"
+            SheetRows="1" SheetColumns="7"
+            Speed="3" SplitFrame="20"
+            SheetName="masstexture"
+            OffsetX="849"
+            OffsetY="196"
+            Alias="Fire" />
+</Animations>

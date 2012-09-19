@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<AnimSheet>
+  <Frames>
+    <Item>
+      <Key>fox-death-00000</Key>
+      <Value>0 0 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-death-00001</Key>
+      <Value>131 0 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-death-00002</Key>
+      <Value>262 0 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-death-00003</Key>
+      <Value>0 131 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-death-00004</Key>
+      <Value>131 131 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-death-00005</Key>
+      <Value>0 262 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-death-00006</Key>
+      <Value>131 262 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-death-00007</Key>
+      <Value>262 131 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-death-00008</Key>
+      <Value>262 262 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-death-00009</Key>
+      <Value>393 0 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-death-00010</Key>
+      <Value>393 131 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-death-00011</Key>
+      <Value>524 0 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-idle-00000</Key>
+      <Value>393 262 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-idle-00001</Key>
+      <Value>524 131 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-idle-00002</Key>
+      <Value>655 0 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-idle-00003</Key>
+      <Value>786 0 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-idle-00004</Key>
+      <Value>655 131 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-idle-00005</Key>
+      <Value>524 262 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-idle-00006</Key>
+      <Value>655 262 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-idle-00007</Key>
+      <Value>786 131 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-idle-00008</Key>
+      <Value>786 262 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-idle-00009</Key>
+      <Value>0 393 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-idle-00010</Key>
+      <Value>0 524 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-idle-00011</Key>
+      <Value>131 393 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-watch-00000</Key>
+      <Value>131 524 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-watch-00001</Key>
+      <Value>0 655 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-watch-00002</Key>
+      <Value>262 393 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-watch-00003</Key>
+      <Value>131 655 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-watch-00004</Key>
+      <Value>393 393 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-watch-00005</Key>
+      <Value>262 524 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-watch-00006</Key>
+      <Value>524 393 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-watch-00007</Key>
+      <Value>393 524 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-watch-00008</Key>
+      <Value>262 655 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-watch-00009</Key>
+      <Value>393 655 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-watch-00010</Key>
+      <Value>655 393 128 128</Value>
+    </Item>
+    <Item>
+      <Key>fox-watch-00011</Key>
+      <Value>524 524 128 128</Value>
+    </Item>
+  </Frames>
+
+  <Animations>
+    
+    <AnimSet>
+      <Name>Watch</Name>
+      <Speed>20</Speed>
+      
+      <AnimFrames>
+        <Frame>
+          <Key>fox-watch-00001</Key>
+        </Frame>
+        <Frame>
+          <Key>fox-watch-00002</Key>
+        </Frame>
+        <Frame>
+          <Key>fox-watch-00003</Key>
+        </Frame>
+        <Frame>
+          <Key>fox-watch-00004</Key>
+        </Frame>
+        <Frame>
+          <Key>fox-watch-00005</Key>
+        </Frame>
+        <Frame>
+          <Key>fox-watch-00006</Key>
+        </Frame>
+      </AnimFrames>
+    </AnimSet>
+    
+  </Animations>
+</AnimSheet>

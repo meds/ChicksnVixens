@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Animations>
+  <Definition FrameWidth="128" FrameHeight="128"
+              SheetRows="3" SheetColumns="5"
+              Speed="15"
+              OffsetX="384" OffsetY="0"
+              SheetName="fox"
+              Proportion="false"
+              NumFrames="12"
+              Alias="Die"/>
+
+  <Definition FrameWidth="128" FrameHeight="128"
+            SheetRows="1" SheetColumns="1"
+            Speed="15"
+            OffsetX="512" OffsetY="256"
+            SheetName="fox"
+            Proportion="false"
+            NumFrames="1"
+            Alias="Corpse"/>
+  
+  <Definition 
+            FrameWidth="128" FrameHeight="128"
+            SheetRows="3" SheetColumns="3"
+            Speed="20"
+            OffsetX="0" OffsetY="0"
+            SheetName="fox"
+            Proportion="false"
+            SeeSaw="true"
+            Alias="Celebrate"/>
+
+  <Definition
+          FrameWidth="128" FrameHeight="128"
+          SheetRows="2" SheetColumns="6"
+          Speed="20"
+          OffsetX="0" OffsetY="640"
+          SheetName="fox"
+          Proportion="false"
+          SeeSaw="true"
+          Alias="Idle"/>
+  
+  <Definition
+          FrameWidth="128" FrameHeight="128"
+          SheetRows="1" SheetColumns="1"
+          Speed="20"
+          OffsetX="256" OffsetY="896"
+          SheetName="fox"
+          Proportion="false"
+          SeeSaw="true"
+          Alias="Roll"/>
+</Animations>

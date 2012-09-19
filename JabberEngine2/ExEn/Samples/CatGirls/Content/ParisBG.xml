@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Animations>
+  <Definition FrameWidth="256" FrameHeight="256"
+            OffsetX="256"
+            OffsetY="0"
+            Proportion="false"
+            Alias="UndergroundDecoration" />
+
+  <Definition FrameWidth="256" FrameHeight="256"
+            OffsetX="512"
+            OffsetY="0"
+            Proportion="false"
+            Alias="Underground" />
+
+  <Definition FrameWidth="256" FrameHeight="256"
+          OffsetX="768"
+          OffsetY="0"
+          Proportion="false"
+          Alias="UndergroundDecoration2" />
+
+
+  <Definition FrameWidth="255" FrameHeight="255"
+        OffsetX="512"
+        OffsetY="513"
+        Proportion="false"
+        Alias="DistantBuildings" />
+
+  <Definition FrameWidth="255" FrameHeight="256"
+      OffsetX="0"
+      OffsetY="377"
+      Proportion="false"
+      Alias="SkyGradient" />
+
+  <Definition FrameWidth="1" FrameHeight="1"
+    OffsetX="0"
+    OffsetY="377"
+    Proportion="false"
+    Alias="Sky" />
+
+  <Definition FrameWidth="190" FrameHeight="319"
+    OffsetX="0"
+    OffsetY="634"
+    Proportion="false"
+    Alias="Tower" />
+</Animations>

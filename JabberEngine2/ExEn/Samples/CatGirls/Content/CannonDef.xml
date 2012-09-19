@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Animations>
+  <Definition FrameWidth="0.125" FrameHeight="0.125"
+              SheetRows="1" SheetColumns="1"
+              Speed="1"
+              OffsetX="0" OffsetY="0.375"
+              NumFrames="1"
+              Proportion="true"
+              SheetName="chickenandbodies"
+              Alias="Barrel"/>
+
+
+  <Definition FrameWidth="0.125" FrameHeight="0.125"
+            SheetRows="1" SheetColumns="6"
+            Speed="20"
+            OffsetX="0" OffsetY="0.375"
+            Proportion="true"
+            SheetName="chickenandbodies"
+            Alias="Fire"/>
+
+
+  <Definition FrameWidth="0.125" FrameHeight="0.125"
+          SheetRows="1" SheetColumns="1"
+          Speed="20"
+          OffsetX="0.75" OffsetY="0"
+          Proportion="true"
+          NumFrames="1"
+          SheetName="chickenandbodies"
+          Alias="Base"/>
+</Animations>

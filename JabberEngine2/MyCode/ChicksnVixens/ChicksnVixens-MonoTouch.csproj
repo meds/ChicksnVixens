@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">iPhoneSimulator</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectTypeGuids>{E613F3A2-FE9C-494F-B74E-F63BCB86FEA6};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>ChicksnVixens</RootNamespace>
+    <AssemblyName>ChicksnVixens</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <SupportedDevices>IPhoneAndIPad</SupportedDevices>
+    <BundleIdentifier>net.jabberworx.chicksnvixens</BundleIdentifier>
+    <BundleDisplayName>Chicks'n'Vixens</BundleDisplayName>
+    <ProjectGuid>{C97ACCC8-1172-4146-BC53-A67E9804F095}</ProjectGuid>
+    <MtouchMinimumOS>3.0</MtouchMinimumOS>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhoneSimulator' ">
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\iPhoneSimulator\Debug</OutputPath>
+    <DefineConstants>DEBUG IPHONE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <MtouchDebug>True</MtouchDebug>
+    <ConsolePause>false</ConsolePause>
+    <MtouchLink>None</MtouchLink>
+    <MtouchI18n />
+    <MtouchUseLlvm>false</MtouchUseLlvm>
+    <MtouchArch>ARMv6</MtouchArch>
+    <MtouchUseThumb>false</MtouchUseThumb>
+    <MtouchUseSGen>false</MtouchUseSGen>
+    <MtouchSdkVersion>4.3</MtouchSdkVersion>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhoneSimulator' ">
+    <DebugType>none</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\iPhoneSimulator\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <MtouchDebug>False</MtouchDebug>
+    <ConsolePause>false</ConsolePause>
+    <MtouchLink>None</MtouchLink>
+    <MtouchI18n />
+    <MtouchUseLlvm>false</MtouchUseLlvm>
+    <MtouchArch>ARMv6</MtouchArch>
+    <MtouchUseThumb>false</MtouchUseThumb>
+    <MtouchUseSGen>false</MtouchUseSGen>
+    <MtouchSdkVersion>4.3</MtouchSdkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhone' ">
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\iPhone\Debug</OutputPath>
+    <DefineConstants>DEBUG IPHONE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <MtouchDebug>True</MtouchDebug>
+    <ConsolePause>false</ConsolePause>
+    <CodesignKey>iPhone Developer: Ahmed Hakeem (U4GNRCKQM2)</CodesignKey>
+    <MtouchI18n />
+    <MtouchLink>Full</MtouchLink>
+    <MtouchUseLlvm>false</MtouchUseLlvm>
+    <MtouchArch>ARMv6</MtouchArch>
+    <MtouchUseThumb>false</MtouchUseThumb>
+    <MtouchUseSGen>false</MtouchUseSGen>
+    <MtouchSdkVersion>4.3</MtouchSdkVersion>
+    <CodesignProvision>A7A3EB0B-510D-4E67-9978-5A452C598A1C</CodesignProvision>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhone' ">
+    <DebugType>none</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\iPhone\Debug</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <MtouchDebug>False</MtouchDebug>
+    <ConsolePause>false</ConsolePause>
+    <CodesignKey>iPhone Developer: Ahmed Hakeem (U4GNRCKQM2)</CodesignKey>
+    <MtouchLink>Full</MtouchLink>
+    <MtouchI18n />
+    <MtouchUseLlvm>false</MtouchUseLlvm>
+    <MtouchArch>ARMv6</MtouchArch>
+    <MtouchUseThumb>false</MtouchUseThumb>
+    <MtouchUseSGen>false</MtouchUseSGen>
+    <CodesignProvision>A7A3EB0B-510D-4E67-9978-5A452C598A1C</CodesignProvision>
+    <DefineConstants>IPHONE</DefineConstants>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="monotouch" />
+    <Reference Include="OpenTK" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Info.plist" />
+    <None Include="Content\Levels\bavaria\Level1.xml" />
+    <None Include="Content\Levels\bavaria\Level2.xml" />
+    <None Include="Content\Levels\bavaria\Level3.xml" />
+    <None Include="Content\Levels\bavaria\Level4.xml" />
+    <None Include="Content\Levels\bavaria\Level5.xml" />
+    <None Include="Content\Levels\bavaria\Level6.xml" />
+    <None Include="Content\Levels\bavaria\Level7.xml" />
+    <None Include="Content\Levels\bavaria\Level8.xml" />
+    <None Include="Content\Levels\bavaria\Level9.xml" />
+    <None Include="Content\Levels\bavaria\Level10.xml" />
+    <None Include="Content\Levels\bavaria\Level11.xml" />
+    <None Include="Content\Levels\bavaria\Level12.xml" />
+    <None Include="Content\Levels\bavaria\Level13.xml" />
+    <None Include="Content\Levels\bavaria\Level14.xml" />
+    <None Include="Content\Levels\bavaria\Level15.xml" />
+    <None Include="Content\Levels\bavaria\Level16.xml" />
+    <None Include="Content\Levels\bavaria\Level17.xml" />
+    <None Include="Content\Levels\bavaria\Level18.xml" />
+    <None Include="Content\Levels\uluru\Level2.xml" />
+    <None Include="Content\Levels\uluru\Level3.xml" />
+    <None Include="Content\Levels\uluru\Level4.xml" />
+    <None Include="Content\Levels\uluru\Level5.xml" />
+    <None Include="Content\Levels\uluru\Level6.xml" />
+    <None Include="Content\Levels\uluru\Level7.xml" />
+    <None Include="Content\Levels\uluru\Level8.xml" />
+    <None Include="Content\Levels\uluru\Level9.xml" />
+    <None Include="Content\Levels\uluru\Level10.xml" />
+    <None Include="Content\Levels\uluru\Level11.xml" />
+    <None Include="Content\Levels\uluru\Level12.xml" />
+    <None Include="Content\Levels\uluru\Level13.xml" />
+    <None Include="Content\Levels\uluru\Level14.xml" />
+    <None Include="Content\Levels\uluru\Level15.xml" />
+    <None Include="Content\Levels\uluru\Level16.xml" />
+    <None Include="Content\Levels\uluru\Level17.xml" />
+    <None Include="Content\Levels\uluru\Level18.xml" />
+    <None Include="Content\Levels\uluru\Level19.xml" />
+    <None Include="Content\Levels\uluru\Level20.xml" />
+    <None Include="Content\Levels\uluru\Level21.xml" />
+    <None Include="Content\Levels\uluru\Level22.xml" />
+    <None Include="Content\Levels\uluru\Level23.xml" />
+    <None Include="Content\Levels\uluru\Level24.xml" />
+    <None Include="Content\Levels\uluru\Level25.xml" />
+    <None Include="Content\Levels\uluru\Level26.xml" />
+    <None Include="Content\Levels\uluru\Level27.xml" />
+    <None Include="Content\Levels\uluru\Level28.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ProjectExtensions>
+    <MonoDevelop>
+      <Properties InternalTargetFrameworkVersion="IPhone" />
+    </MonoDevelop>
+  </ProjectExtensions>
+  <ItemGroup>
+    <ProjectReference Include="..\..\ExEn\ExEnEmTouch\ExEnEmTouch.csproj">
+      <Project>{F7E52764-6042-4D0D-AAB6-E7938B88B93D}</Project>
+      <Name>ExEnEmTouch</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\ExEn\ExEnCore\ExEnCore MonoTouch.csproj">
+      <Project>{4740C1D7-5EE0-43AC-A862-45B8D245FC43}</Project>
+      <Name>ExEnCore MonoTouch</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Farseer Physics Engine 3.3.1 XNA\FarseerPhysics MonoTouch.csproj">
+      <Project>{F7D42765-6042-4D0D-AAB6-E7938B88B93D}</Project>
+      <Name>FarseerPhysics MonoTouch</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Engine\Engine MonoTouch.csproj">
+      <Project>{F981A69B-7423-4C62-8000-A948A927FE59}</Project>
+      <Name>Engine MonoTouch</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="NamedScreenSizes.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="MonoTouch Program.cs" />
+    <Compile Include="ChicksnVixensGame.cs" />
+    <Compile Include="FrameworkExtensions.cs" />
+    <Compile Include="ExEnSilverCompatibility.cs" />
+    <Compile Include="GameCode\BreakableBody.cs" />
+    <Compile Include="GameCode\Cannon.cs" />
+    <Compile Include="GameCode\Chicken_Dash.cs" />
+    <Compile Include="GameCode\Chicken_Explode.cs" />
+    <Compile Include="GameCode\Chicken.cs" />
+    <Compile Include="GameCode\ChicksScene.cs" />
+    <Compile Include="GameCode\Fox.cs" />
+    <Compile Include="GameCode\GameCamera.cs" />
+    <Compile Include="GameCode\GameCameraChickenFollow.cs" />
+    <Compile Include="GameCode\GameCameraFreeDrag.cs" />
+    <Compile Include="GameCode\Paris.cs" />
+    <Compile Include="GameCode\WorldLocation.cs" />
+    <Compile Include="Screens\GameplayScreen.cs" />
+    <Compile Include="Screens\LevelSelectScreen.cs" />
+    <Compile Include="Screens\WorldSelectScreen.cs" />
+    <Compile Include="GameCode\Australia.cs" />
+    <Compile Include="GameCode\Bavaria.cs" />
+    <Compile Include="GameCode\Chicken_Egg.cs" />
+    <Compile Include="GameCode\Cow.cs" />
+    <Compile Include="GameCode\MapUI.cs" />
+    <Compile Include="GameCode\Polar.cs" />
+    <Compile Include="GameCode\BlankNess.cs" />
+    <Compile Include="GameCode\Explosion.cs" />
+    <Compile Include="GameCode\FallingFeathers.cs" />
+    <Compile Include="GameCode\Fan.cs" />
+    <Compile Include="GameCode\LevelButton.cs" />
+    <Compile Include="GameCode\LevelSelectCam.cs" />
+    <Compile Include="GameCode\Splinter.cs" />
+    <Compile Include="GameCode\VolumeControl.cs" />
+    <Compile Include="Screens\LevelEndScreen.cs" />
+    <Compile Include="Screens\MainMenuScreen.cs" />
+    <Compile Include="Screens\Options.cs" />
+    <Compile Include="Screens\PauseScreen.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Content\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Content\Chickens_Frames.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\fox_frames.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\fox.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\break.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\break_frames.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\font-exenfont.exenfont">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\font-exenfont.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\font-exenfont%402x.exenfont">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\font-exenfont%402x.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\textures\backgrounds\vesuvius\aboveground.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\textures\backgrounds\vesuvius\bavaria.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\textures\backgrounds\vesuvius\bavaria_frames.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\textures\backgrounds\polar\aboveground.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\textures\backgrounds\polar\polar.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\textures\backgrounds\polar\polar_frames.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\textures\backgrounds\bavaria\aboveground.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\textures\backgrounds\bavaria\bavaria.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\textures\backgrounds\bavaria\bavaria_frames.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\textures\backgrounds\australia\abovegroundtexture.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\textures\backgrounds\australia\australia.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\textures\backgrounds\australia\australia_frames.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\WorldMap\map_ui.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\WorldMap\map_ui_frames.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\ui\LevelFont-exenfont.exenfont">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\ui\LevelFont-exenfont%402x.exenfont">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\ui\mainmenu.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\ui\mainmenu_frames.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\ui\PauseFont.spritefont">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\ui\PauseFont-exenfont.exenfont">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\ui\PauseFont-exenfont%402x.exenfont">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\ui\Play-exenfont.exenfont">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\ui\Play-exenfont%402x.exenfont">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\ui\ui.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\ui\ui_frames.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\ui\white.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\ui\LevelFont-exenfont.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\ui\LevelFont-exenfont%402x.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\ui\PauseFont-exenfont.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\ui\PauseFont-exenfont%402x.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\ui\Play-exenfont.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\ui\Play-exenfont%402x.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\misc_frames.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\misc.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\handle%402x.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\chickens.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Levels\uluru\Level1.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+</Project>

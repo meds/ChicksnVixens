@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<AnimSheet>
+  <Frames>
+    <Item>
+      <Key>bird-bomb-00000</Key>
+      <Value>0 0 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-bomb-00001</Key>
+      <Value>128 0 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-bomb-00002</Key>
+      <Value>0 128 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-bomb-00003</Key>
+      <Value>128 128 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-bomb-00004</Key>
+      <Value>256 0 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-bomb-00005</Key>
+      <Value>256 128 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-boom-00000</Key>
+      <Value>384 0 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-boom-00001</Key>
+      <Value>384 128 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-boom-00002</Key>
+      <Value>0 256 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-boom-00003</Key>
+      <Value>0 384 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-boom-00004</Key>
+      <Value>128 256 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-boom-00005</Key>
+      <Value>256 256 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-chicken-00000</Key>
+      <Value>128 384 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-chicken-00001</Key>
+      <Value>256 384 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-chicken-00002</Key>
+      <Value>384 256 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-chicken-00003</Key>
+      <Value>384 384 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-chicken-00004</Key>
+      <Value>512 0 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-chicken-00005</Key>
+      <Value>640 0 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-egg-00000</Key>
+      <Value>512 128 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-egg-00001</Key>
+      <Value>768 0 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-egg-00002</Key>
+      <Value>640 128 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-egg-00003</Key>
+      <Value>512 256 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-egg-00004</Key>
+      <Value>640 256 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-egg-00005</Key>
+      <Value>512 384 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-raptor-attack-00000</Key>
+      <Value>768 128 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-raptor-attack-00001</Key>
+      <Value>896 0 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-raptor-attack-00002</Key>
+      <Value>896 128 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-raptor-attack-00003</Key>
+      <Value>768 256 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-raptor-attack-00004</Key>
+      <Value>640 384 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-raptor-attack-00005</Key>
+      <Value>768 384 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-raptor-attack-00006</Key>
+      <Value>896 256 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-raptor-attack-00007</Key>
+      <Value>896 384 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-raptor-base-00000</Key>
+      <Value>0 512 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-raptor-base-00001</Key>
+      <Value>128 512 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-raptor-base-00002</Key>
+      <Value>0 640 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-raptor-base-00003</Key>
+      <Value>128 640 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-raptor-base-00004</Key>
+      <Value>0 768 128 128</Value>
+    </Item>
+    <Item>
+      <Key>bird-raptor-base-00005</Key>
+      <Value>256 512 128 128</Value>
+    </Item>
+    <Item>
+      <Key>cannon-base00000</Key>
+      <Value>128 768 128 128</Value>
+    </Item>
+    <Item>
+      <Key>cannon-seq-00000</Key>
+      <Value>256 640 128 128</Value>
+    </Item>
+    <Item>
+      <Key>cannon-seq-00001</Key>
+      <Value>384 512 128 128</Value>
+    </Item>
+    <Item>
+      <Key>cannon-seq-00002</Key>
+      <Value>512 512 128 128</Value>
+    </Item>
+    <Item>
+      <Key>cannon-seq-00003</Key>
+      <Value>256 768 128 128</Value>
+    </Item>
+    <Item>
+      <Key>cannon-seq-00004</Key>
+      <Value>384 640 128 128</Value>
+    </Item>
+    <Item>
+      <Key>cannon-seq-00005</Key>
+      <Value>384 768 128 128</Value>
+    </Item>
+    <Item>
+      <Key>cannon-seq-00006</Key>
+      <Value>512 640 128 128</Value>
+    </Item>
+    <Item>
+      <Key>cannon-shot-00000</Key>
+      <Value>640 512 128 128</Value>
+    </Item>
+    <Item>
+      <Key>cannon-shot-00001</Key>
+      <Value>640 640 128 128</Value>
+    </Item>
+    <Item>
+      <Key>cannon-shot-00002</Key>
+      <Value>512 768 128 128</Value>
+    </Item>
+    <Item>
+      <Key>cannon-shot-00003</Key>
+      <Value>768 512 128 128</Value>
+    </Item>
+    <Item>
+      <Key>cannon-shot-00004</Key>
+      <Value>768 640 128 128</Value>
+    </Item>
+    <Item>
+      <Key>cannon-shot-00005</Key>
+      <Value>640 768 128 128</Value>
+    </Item>
+    <Item>
+      <Key>cannon-shot-00006</Key>
+      <Value>896 512 128 128</Value>
+    </Item>
+    <Item>
+      <Key>egg00000</Key>
+      <Value>896 640 128 128</Value>
+    </Item>
+    <Item>
+      <Key>feather-00000</Key>
+      <Value>768 768 128 128</Value>
+    </Item>
+  </Frames>
+
+  <Animations>
+
+    <AnimSet>
+      <Name>Barrel</Name>
+      <Speed>0</Speed>
+      <AnimFrames>
+        <Frame>
+          <Key>cannon-seq-00000</Key>
+        </Frame>
+      </AnimFrames>
+    </AnimSet>
+    
+    
+    
+    <!-- Chickens -->
+    <AnimSet>
+      <Name>Accelerate</Name>
+      <Speed>20</Speed>
+
+      <AnimFrames>
+        <Loop/>
+        <FrameStart>bird-bomb-00000</FrameStart>
+        <FrameEnd>bird-bomb-00005</FrameEnd>
+      </AnimFrames>
+    </AnimSet>
+    
+  </Animations>
+ 
+  
+</AnimSheet>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Animations>
+  <Definition FrameWidth="0.01953125" FrameHeight="0.09765625"
+            OffsetX="0.94140625"
+            OffsetY="0.90234375"
+            Proportion="true"
+            Alias="Wood" />
+
+    <Definition FrameWidth="0.01953125" FrameHeight="0.09765625"
+              OffsetX="0.9609375"
+              OffsetY="0.90234375"
+              Proportion="true"
+              Alias="Wood_Damaged" />
+
+
+  <Definition FrameWidth="0.01953125" FrameHeight="0.09765625"
+          OffsetX="0.86328125"
+          OffsetY="0.90234375"
+          Proportion="true"
+          Alias="Concrete" />
+
+  <Definition FrameWidth="0.01953125" FrameHeight="0.09765625"
+        OffsetX="0.8828125"
+        OffsetY="0.90234375"
+        Proportion="true"
+        Alias="Concrete_Damaged" />
+
+
+  <Definition FrameWidth="0.01953125" FrameHeight="0.09765625"
+        OffsetX="0.90234375"
+        OffsetY="0.90234375"
+        Proportion="true"
+        Alias="Glass" />
+
+
+  <Definition FrameWidth="0.01953125" FrameHeight="0.09765625"
+      OffsetX="0.921875"
+      OffsetY="0.90234375"
+      Proportion="true"
+      Alias="Glass_Damaged" />
+</Animations>
